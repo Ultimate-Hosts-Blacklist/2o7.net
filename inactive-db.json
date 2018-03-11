@@ -223,7 +223,9 @@
             "type=\"text\"",
             "users",
             "value=\"\"",
-            "Watch"
-        ]
+            "Watch",
+            "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts"
+        ],
+        "to_test": []
     }
 }
