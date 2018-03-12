@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/2o7.net/domains.list": {
-        "1520755320": [
-            "'\"`",
+        "1520893964": [
             "12",
             "17",
             "71",
@@ -163,6 +162,7 @@
             "href=\"https://help.github.com\"",
             "html>",
             "http-equiv=\"x-pjax-version\"",
+            "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
             "id=\"ajax-error-message\"",
             "id=\"js-flash-container\">",
             "id=\"js-pjax-loader-bar\"",
@@ -223,9 +223,10 @@
             "type=\"text\"",
             "users",
             "value=\"\"",
-            "Watch",
-            "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts"
+            "Watch"
         ],
-        "to_test": []
+        "to_test": [
+            "'\"`"
+        ]
     }
 }
