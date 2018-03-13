@@ -1,8 +1,10 @@
-# About [repositoryname]
+# About 2o7.net
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/2o7.net.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/2o7.net)
 
-[Description]
+```
+2o7Net tracking sites based on http://www.hostsfile.org/hosts.html content.
+```
 
 --------------------------------------------------------------------------------
 
