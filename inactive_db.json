@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/2o7.net/domains.list": {
-        "1536750257": [
+        "1537034354": [
             "'\"`",
             "12",
             "17",
@@ -91,8 +91,8 @@
             "class=\"select-menu-title\">Switch",
             "class=\"signed-in-tab-flash\">You",
             "class=\"signed-out-tab-flash\">You",
-            "class=\"social-count",
             "class=\"social-count\"",
+            "class=\"social-count",
             "class=\"text-bold",
             "class=\"text-gray\">or</span>",
             "class=\"BtnGroup",
@@ -141,8 +141,8 @@
             "href=\"/mitchellkrogza/Ultimate.Hosts.Blacklist/tree/master/.input_sources\"",
             "href=\"/mitchellkrogza/Ultimate.Hosts.Blacklist/tree/master/.input_sources/_2o7.net\"",
             "href=\"/pricing\"",
-            "</html>",
             "html>",
+            "</html>",
             "http-equiv=\"x-pjax-version\"",
             "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
             "id=\"ajax-error-message\"",
@@ -164,8 +164,8 @@
             "</label>",
             "lang=\"en\">",
             "latest",
-            "<li>",
             "</li>",
+            "<li>",
             "master",
             "must",
             "name=\"browser-errors-url\"",
@@ -209,8 +209,8 @@
             "</span>",
             "</table>",
             "Star",
-            "</tbody>",
             "<tbody>",
+            "</tbody>",
             "</td>",
             "<td></td>",
             "this",
