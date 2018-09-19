@@ -213,22 +213,22 @@
             "</tbody>",
             "</td>",
             "<td></td>",
-            "this"
-        ],
-        "to_test": [
+            "this",
             "</tr>",
-            "</ul>",
-            "<ul>",
-            "Business",
-            "data-pjax=\"#js-repo-pjax-container\">",
-            "Explore",
-            "href=\"#\"",
-            "href=\"#start-of-content\"",
             "type=\"button\"",
             "type=\"hidden\"",
             "type=\"text\"",
+            "</ul>",
+            "<ul>",
             "users",
-            "value=\"\""
+            "Business",
+            "value=\"\"",
+            "Explore"
+        ],
+        "to_test": [
+            "data-pjax=\"#js-repo-pjax-container\">",
+            "href=\"#\"",
+            "href=\"#start-of-content\""
         ]
     }
 }
