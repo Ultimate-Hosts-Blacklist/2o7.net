@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/2o7.net/domains.list": {
         "down": 0,
-        "invalid": 0,
-        "tested": 0,
-        "up": 0
+        "invalid": 216,
+        "tested": 1202,
+        "up": 986
     }
 }
