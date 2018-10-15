@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sat 13 Oct 11:10:55 UTC 2018 
+# Date of generation: Mon 15 Oct 11:10:04 UTC 2018 
 
 '"`
 12
@@ -91,8 +91,8 @@ class="select-menu-text-filter">
 class="select-menu-title">Switch
 class="signed-in-tab-flash">You
 class="signed-out-tab-flash">You
-class="social-count
 class="social-count"
+class="social-count
 class="text-bold
 class="text-gray">or</span>
 class="BtnGroup
@@ -116,8 +116,8 @@ Features
 file
 </form></div>
 </h1>
-</head>
 <head>
+</head>
 </header>
 header-search-input
 href="
@@ -167,8 +167,8 @@ GitHub"
 </label>
 lang="en">
 latest
-</li>
 <li>
+</li>
 master
 must
 name="browser-errors-url"
@@ -212,8 +212,8 @@ role="navigation"
 </span>
 </table>
 Star
-</tbody>
 <tbody>
+</tbody>
 </td>
 <td></td>
 this
