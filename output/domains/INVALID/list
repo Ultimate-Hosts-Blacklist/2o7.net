@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sun 28 Oct 16:10:36 UTC 2018 
+# Date of generation: Thu 01 Nov 11:11:42 UTC 2018 
 
 '"`
 12
@@ -29,11 +29,11 @@ class="btn
 class="commit-tease
 class="container
 class="container-lg
-class="content"
 class="content">
+class="content"
 class="css-truncate
-class="d-flex
 class="d-flex">
+class="d-flex
 class="d-inline-block">
 class="d-lg-flex
 class="Header
@@ -116,8 +116,8 @@ Features
 file
 </form></div>
 </h1>
-<head>
 </head>
+<head>
 </header>
 header-search-input
 href="
@@ -167,8 +167,8 @@ GitHub"
 </label>
 lang="en">
 latest
-<li>
 </li>
+<li>
 master
 must
 name="browser-errors-url"
@@ -212,8 +212,8 @@ role="navigation"
 </span>
 </table>
 Star
-</tbody>
 <tbody>
+</tbody>
 </td>
 <td></td>
 this
