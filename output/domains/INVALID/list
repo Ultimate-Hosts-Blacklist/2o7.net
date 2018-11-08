@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Tue 06 Nov 11:11:19 UTC 2018 
+# Date of generation: Thu 08 Nov 11:11:19 UTC 2018 
 
 '"`
 12
@@ -29,8 +29,8 @@ class="btn
 class="commit-tease
 class="container
 class="container-lg
-class="content"
 class="content">
+class="content"
 class="css-truncate
 class="d-flex
 class="d-flex">
@@ -116,8 +116,8 @@ Features
 file
 </form></div>
 </h1>
-<head>
 </head>
+<head>
 </header>
 header-search-input
 href="
@@ -144,8 +144,8 @@ href="/mitchellkrogza/Ultimate.Hosts.Blacklist/tree/master/.input_sources"
 href="/mitchellkrogza/Ultimate.Hosts.Blacklist/tree/master/.input_sources/_2o7.net"
 href="/pricing"
 href="
-</html>
 html>
+</html>
 http-equiv="x-pjax-version"
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
 id="ajax-error-message"
