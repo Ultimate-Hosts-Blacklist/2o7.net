@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/2o7.net/domains.list": {
-        "1543486781": [
+        "1543606374": [
             "'\"`",
             "12",
             "17",
@@ -164,8 +164,8 @@
             "</label>",
             "lang=\"en\">",
             "latest",
-            "</li>",
             "<li>",
+            "</li>",
             "master",
             "must",
             "name=\"browser-errors-url\"",
@@ -209,8 +209,8 @@
             "</span>",
             "</table>",
             "Star",
-            "</tbody>",
             "<tbody>",
+            "</tbody>",
             "</td>",
             "<td></td>",
             "this",
@@ -218,8 +218,8 @@
             "type=\"button\"",
             "type=\"hidden\"",
             "type=\"text\"",
-            "<ul>",
             "</ul>",
+            "<ul>",
             "users",
             "Business",
             "value=\"\"",
