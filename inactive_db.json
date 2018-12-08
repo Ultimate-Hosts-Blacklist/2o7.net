@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/2o7.net/domains.list": {
-        "1543924485": [
+        "1544269783": [
             "'\"`",
             "12",
             "17",
@@ -32,8 +32,8 @@
             "class=\"content\">",
             "class=\"content\"",
             "class=\"css-truncate",
-            "class=\"d-flex",
             "class=\"d-flex\">",
+            "class=\"d-flex",
             "class=\"d-inline-block\">",
             "class=\"d-lg-flex",
             "class=\"Header",
@@ -91,8 +91,8 @@
             "class=\"select-menu-title\">Switch",
             "class=\"signed-in-tab-flash\">You",
             "class=\"signed-out-tab-flash\">You",
-            "class=\"social-count\"",
             "class=\"social-count",
+            "class=\"social-count\"",
             "class=\"text-bold",
             "class=\"text-gray\">or</span>",
             "class=\"BtnGroup",
