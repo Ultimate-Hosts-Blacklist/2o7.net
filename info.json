@@ -1,11 +1,9 @@
 {
     "arguments": [],
-    "clean_list_file": "clean.list",
     "clean_original": "1",
     "currently_under_test": "0",
     "days_until_next_test": "2",
-    "last_test": "1547208947",
-    "list_name": "domains.list",
+    "last_test": "1547498412",
     "name": "2o7.net",
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
     "stable": "1"
