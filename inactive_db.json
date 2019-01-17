@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/2o7.net/domains.list": {
-        "1547498074": [
+        "1547726780": [
             "'\"`",
             "12",
             "17",
@@ -220,8 +220,8 @@
             "type=\"button\"",
             "type=\"hidden\"",
             "type=\"text\"",
-            "</ul>",
             "<ul>",
+            "</ul>",
             "users",
             "value=\"\""
         ],
