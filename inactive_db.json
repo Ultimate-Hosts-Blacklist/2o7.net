@@ -225,6 +225,10 @@
             "value=\"\"",
             "Watch"
         ],
+        "1556543421": [
+            "data-pjax=\"",
+            "href=\""
+        ],
         "to_test": [
             "data-pjax=\"#js-repo-pjax-container\">",
             "href=\"#\"",
