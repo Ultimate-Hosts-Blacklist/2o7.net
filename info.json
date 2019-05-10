@@ -1,10 +1,7 @@
 {
-    "arguments": [],
-    "clean_original": "1",
     "currently_under_test": "0",
-    "days_until_next_test": "2",
-    "last_test": "1557493998",
+    "days_until_next_test": 2,
+    "last_test": 1557493998,
     "name": "2o7.net",
-    "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
-    "stable": "1"
+    "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts"
 }
