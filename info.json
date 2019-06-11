@@ -1,7 +1,23 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "last_test": 1557493998,
+    "end_datetime": "Tue Jun 11 13:25:34 2019",
+    "end_epoch": 1560259534.852899,
     "name": "2o7.net",
-    "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts"
+    "previous_stats": {
+        "builds": 1,
+        "clean.list": 1289,
+        "counter": {
+            "down": 0,
+            "invalid": 0,
+            "tested": 1289,
+            "up": 1289
+        },
+        "domains.list": 1289,
+        "volatile.list": 1289,
+        "whitelisted.list": 1289
+    },
+    "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
+    "start_datetime": "Tue Jun 11 13:24:15 2019",
+    "start_epoch": 1560259455.25565
 }
