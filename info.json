@@ -1,8 +1,8 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Fri Sep 13 22:22:46 2019",
-    "end_epoch": 1568413366.231398,
+    "end_datetime": "Sat Sep 14 22:16:10 2019",
+    "end_epoch": 1568499370.529995,
     "name": "2o7.net",
     "previous_stats": {
         "builds": 1,
@@ -16,6 +16,6 @@
         "whitelisted.list": 1289
     },
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
-    "start_datetime": "Fri Sep 13 22:21:29 2019",
-    "start_epoch": 1568413289.583158
+    "start_datetime": "Sat Sep 14 22:14:52 2019",
+    "start_epoch": 1568499292.75633
 }
