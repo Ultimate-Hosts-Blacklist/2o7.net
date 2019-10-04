@@ -1,22 +1,13 @@
 {
-    "current_stats": {
-        "builds": 2,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "tested": 1167,
-            "up": 1167
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Thu Oct  3 10:03:42 2019",
-    "end_epoch": 1570097022.494622,
+    "end_datetime": "Fri Oct  4 03:12:51 2019",
+    "end_epoch": 1570158771.610748,
     "last_autosave_datetime": "Fri Oct  4 01:36:06 2019",
     "last_autosave_epoch": 1570152966.751177,
     "name": "2o7.net",
     "previous_stats": {
-        "builds": 1,
+        "builds": 3,
         "clean.list": 1289,
         "counter": {
             "down": 0,
