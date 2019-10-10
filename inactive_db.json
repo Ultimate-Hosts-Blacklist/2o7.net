@@ -19,7 +19,6 @@
         "1570661316": {
             "livenation.122.2o7.net": "INACTIVE",
             "omniscbt.112.2o7.net": "INACTIVE",
-            "softbankbb.d2.sc.omtrdc.net": "INACTIVE",
             "thome.112.2o7.net": "INACTIVE",
             "wpni.112.2o7.net": "INACTIVE"
         },
@@ -206,6 +205,67 @@
         },
         "1570705330": {
             "consumerreports.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570748173": {
+            "consumerinfo.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570748175": {
+            "amazonwebservicesinc.tt.omtrdc.net": "INACTIVE",
+            "webroot.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570748177": {
+            "gigamon.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570748182": {
+            "ringcentral.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570748183": {
+            "nationalbankofnewzea.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570748184": {
+            "myfamilycominc.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570748185": {
+            "bcbsks.com.102.112.2o7.net": "INACTIVE"
+        },
+        "1570748186": {
+            "constantcontact.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570748234": {
+            "asadventure.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570748236": {
+            "channel4.com.ssl.sc.omtrdc.net": "INACTIVE"
+        },
+        "1570748237": {
+            "permissioninteractiv.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570748241": {
+            "oreck.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570748244": {
+            "williamhill.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570748245": {
+            "dellinc.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570748247": {
+            "australianewzealandb.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570748280": {
+            "jtt.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570748292": {
+            "joelosteenministries.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570748422": {
+            "192.168.112.2o7.net": "INACTIVE"
+        },
+        "1570748423": {
+            "carbonite.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570748553": {
+            "boscovs.com.ssl.sc.omtrdc.net": "INACTIVE"
         }
     }
 }
