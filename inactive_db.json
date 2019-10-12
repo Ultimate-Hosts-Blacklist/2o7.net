@@ -64,7 +64,6 @@
             "nikerunning.112.2o7.net": "INACTIVE"
         },
         "1570661457": {
-            "laxpsd.112.2o7.net": "INACTIVE",
             "smokingeverywhere.122.2o7.net": "INACTIVE",
             "vogelservices.122.2o7.net": "INACTIVE"
         },
@@ -348,6 +347,49 @@
         },
         "1570835710": {
             "192.168.112.2o7.net": "INACTIVE"
+        },
+        "1570920696": {
+            "tirerack.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570920702": {
+            "ups.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570920712": {
+            "softbank.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570920713": {
+            "overstock.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570920715": {
+            "alchemyworldwide.tt.omtrdc.net": "INACTIVE",
+            "nautilus.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570920845": {
+            "ciscolearningnetwork.tt.omtrdc.net": "INACTIVE",
+            "nyandcompany.com.ssl.sc.omtrdc.net": "INACTIVE",
+            "permissioninteractiv.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570920846": {
+            "foxnews.tt.omtrdc.net": "INACTIVE",
+            "telegraphmediagroupl.tt.omtrdc.net": "INACTIVE",
+            "webmdcom.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570920847": {
+            "comcastresidentialservices.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570920976": {
+            "condenast.insight.omtrdc.net": "INACTIVE",
+            "isaca.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570920977": {
+            "primetimesolutions.tt.omtrdc.net": "INACTIVE",
+            "verizonwireless.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570920978": {
+            "dellinc.tt.omtrdc.net": "INACTIVE"
+        },
+        "1570921107": {
+            "boscovs.com.ssl.sc.omtrdc.net": "INACTIVE"
         }
     }
 }
