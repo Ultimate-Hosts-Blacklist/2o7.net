@@ -1182,7 +1182,11 @@
         "wpni.112.2o7.net",
         "aolnssearch.122.2o7.net",
         "brangista.122.2o7.net",
-        "hulu.112.2o7.net"
+        "hulu.112.2o7.net",
+        "mcclatchy.112.2o7.net",
+        "gntbcstwcsh.112.2o7.net",
+        "joelosteenministries.112.2o7.net",
+        "medhelpinternational.112.2o7.net"
     ],
     "INACTIVE": [
         "arthurmiddletoncapit.tt.omtrdc.net",
@@ -1275,6 +1279,9 @@
         "jtt.tt.omtrdc.net",
         "premierfarnell.tt.omtrdc.net",
         "asadventure.tt.omtrdc.net",
-        "192.168.112.2o7.net"
+        "192.168.112.2o7.net",
+        "comcastresidentialservices.tt.omtrdc.net",
+        "channel4.com.ssl.sc.omtrdc.net",
+        "angieslist.tt.omtrdc.net"
     ]
 }
