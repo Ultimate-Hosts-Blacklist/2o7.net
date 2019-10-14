@@ -239,9 +239,6 @@
         "1570748244": {
             "williamhill.tt.omtrdc.net": "INACTIVE"
         },
-        "1570748245": {
-            "dellinc.tt.omtrdc.net": "INACTIVE"
-        },
         "1570748247": {
             "australianewzealandb.tt.omtrdc.net": "INACTIVE"
         },
@@ -383,9 +380,6 @@
             "primetimesolutions.tt.omtrdc.net": "INACTIVE",
             "verizonwireless.tt.omtrdc.net": "INACTIVE"
         },
-        "1570920978": {
-            "dellinc.tt.omtrdc.net": "INACTIVE"
-        },
         "1570921107": {
             "boscovs.com.ssl.sc.omtrdc.net": "INACTIVE"
         },
@@ -487,6 +481,46 @@
         },
         "1571008113": {
             "nyandcompany.com.ssl.sc.omtrdc.net": "INACTIVE"
+        },
+        "1571093749": {
+            "cbtnuggets.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571093760": {
+            "vodafoneuk.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571093826": {
+            "rentcom.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571093832": {
+            "marriottinternationa.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571093963": {
+            "boscovs.com.ssl.sc.omtrdc.net": "INACTIVE"
+        },
+        "1571093964": {
+            "searsholdings.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571094095": {
+            "vodafoneindia.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571094096": {
+            "ringcentral.tt.omtrdc.net": "INACTIVE",
+            "tirerack.tt.omtrdc.net": "INACTIVE",
+            "westernunion.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571094097": {
+            "angieslist.tt.omtrdc.net": "INACTIVE",
+            "insightenterprises.tt.omtrdc.net": "INACTIVE",
+            "premierfarnell.tt.omtrdc.net": "INACTIVE",
+            "verizonwireless.tt.omtrdc.net": "INACTIVE",
+            "webroot.tt.omtrdc.net": "INACTIVE",
+            "williamhill.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571094227": {
+            "nyandcompany.com.ssl.sc.omtrdc.net": "INACTIVE"
+        },
+        "1571094228": {
+            "dellinc.tt.omtrdc.net": "INACTIVE"
         }
     }
 }

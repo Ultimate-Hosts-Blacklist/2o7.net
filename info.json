@@ -1,25 +1,25 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Sun Oct 13 23:08:35 2019",
-    "end_epoch": 1571008115.199074,
+    "end_datetime": "Mon Oct 14 23:03:49 2019",
+    "end_epoch": 1571094229.597543,
     "last_autosave_datetime": "Fri Oct 11 23:15:11 2019",
     "last_autosave_epoch": 1570835711.605981,
     "name": "2o7.net",
     "previous_stats": {
         "builds": 1,
-        "clean.list": 1189,
+        "clean.list": 1188,
         "counter": {
-            "down": 93,
+            "down": 96,
             "invalid": 0,
-            "tested": 1282,
-            "up": 1189
+            "tested": 1284,
+            "up": 1188
         },
-        "domains.list": 1282,
-        "volatile.list": 1189,
-        "whitelisted.list": 1189
+        "domains.list": 1284,
+        "volatile.list": 1188,
+        "whitelisted.list": 1188
     },
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
-    "start_datetime": "Sun Oct 13 23:00:42 2019",
-    "start_epoch": 1571007642.873146
+    "start_datetime": "Mon Oct 14 22:55:32 2019",
+    "start_epoch": 1571093732.728552
 }
