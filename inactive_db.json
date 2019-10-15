@@ -267,9 +267,6 @@
         "1570791211": {
             "comcast.tt.omtrdc.net": "INACTIVE"
         },
-        "1570791215": {
-            "ciscolearningnetwork.tt.omtrdc.net": "INACTIVE"
-        },
         "1570791222": {
             "primetimesolutions.tt.omtrdc.net": "INACTIVE"
         },
@@ -360,7 +357,6 @@
             "nautilus.tt.omtrdc.net": "INACTIVE"
         },
         "1570920845": {
-            "ciscolearningnetwork.tt.omtrdc.net": "INACTIVE",
             "nyandcompany.com.ssl.sc.omtrdc.net": "INACTIVE",
             "permissioninteractiv.tt.omtrdc.net": "INACTIVE"
         },
@@ -412,7 +408,6 @@
         "1570963712": {
             "192.168.112.2o7.net": "INACTIVE",
             "christianbroadcastne.tt.omtrdc.net": "INACTIVE",
-            "ciscolearningnetwork.tt.omtrdc.net": "INACTIVE",
             "gigamon.tt.omtrdc.net": "INACTIVE",
             "mcdonaldscorporation.tt.omtrdc.net": "INACTIVE"
         },
@@ -521,6 +516,30 @@
         },
         "1571094228": {
             "dellinc.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571134597": {
+            "mcafee12.tt.omtrdc.net": "INACTIVE",
+            "pennwellco.tt.omtrdc.net": "INACTIVE",
+            "vodafoneindia.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571134727": {
+            "nyandcompany.com.ssl.sc.omtrdc.net": "INACTIVE"
+        },
+        "1571134858": {
+            "condenast.insight.omtrdc.net": "INACTIVE"
+        },
+        "1571134859": {
+            "tdameritrade.tt.omtrdc.net": "INACTIVE",
+            "webroot.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571134860": {
+            "isaca.tt.omtrdc.net": "INACTIVE",
+            "mcdonaldscorporation.tt.omtrdc.net": "INACTIVE",
+            "myfamilycominc.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571134861": {
+            "ciscolearningnetwork.tt.omtrdc.net": "INACTIVE",
+            "nautilus.tt.omtrdc.net": "INACTIVE"
         }
     }
 }
