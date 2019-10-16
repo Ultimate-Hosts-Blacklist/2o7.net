@@ -92,7 +92,6 @@
             "agmsnag.112.2o7.net": "INACTIVE"
         },
         "1570661597": {
-            "boscovs.com.ssl.sc.omtrdc.net": "INACTIVE",
             "searscom.112.2o7.net": "INACTIVE"
         },
         "1570661598": {
@@ -251,9 +250,6 @@
         "1570748423": {
             "carbonite.tt.omtrdc.net": "INACTIVE"
         },
-        "1570748553": {
-            "boscovs.com.ssl.sc.omtrdc.net": "INACTIVE"
-        },
         "1570791186": {
             "iconhealthfitness.tt.omtrdc.net": "INACTIVE"
         },
@@ -272,9 +268,6 @@
         },
         "1570791223": {
             "veritastechnologiesl.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570791353": {
-            "boscovs.com.ssl.sc.omtrdc.net": "INACTIVE"
         },
         "1570791354": {
             "americaneagleoutfitt.tt.omtrdc.net": "INACTIVE"
@@ -315,9 +308,6 @@
         },
         "1570835187": {
             "eharmony.tt.omtrdc.net": "INACTIVE"
-        },
-        "1570835317": {
-            "boscovs.com.ssl.sc.omtrdc.net": "INACTIVE"
         },
         "1570835318": {
             "australianewzealandb.tt.omtrdc.net": "INACTIVE",
@@ -376,9 +366,6 @@
             "primetimesolutions.tt.omtrdc.net": "INACTIVE",
             "verizonwireless.tt.omtrdc.net": "INACTIVE"
         },
-        "1570921107": {
-            "boscovs.com.ssl.sc.omtrdc.net": "INACTIVE"
-        },
         "1570963514": {
             "britishskybroadcasti.tt.omtrdc.net": "INACTIVE"
         },
@@ -427,7 +414,6 @@
             "oreck.tt.omtrdc.net": "INACTIVE"
         },
         "1570964105": {
-            "boscovs.com.ssl.sc.omtrdc.net": "INACTIVE",
             "channel4.com.ssl.sc.omtrdc.net": "INACTIVE"
         },
         "1570964106": {
@@ -489,9 +475,6 @@
         "1571093832": {
             "marriottinternationa.tt.omtrdc.net": "INACTIVE"
         },
-        "1571093963": {
-            "boscovs.com.ssl.sc.omtrdc.net": "INACTIVE"
-        },
         "1571093964": {
             "searsholdings.tt.omtrdc.net": "INACTIVE"
         },
@@ -540,6 +523,43 @@
         "1571134861": {
             "ciscolearningnetwork.tt.omtrdc.net": "INACTIVE",
             "nautilus.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571223651": {
+            "trendmicro.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571223713": {
+            "guthyrenker.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571223764": {
+            "comcastresidentialservices.tt.omtrdc.net": "INACTIVE",
+            "constantcontact.tt.omtrdc.net": "INACTIVE",
+            "mcdonaldscorporation.tt.omtrdc.net": "INACTIVE",
+            "rentcom.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571223765": {
+            "consumerreports.tt.omtrdc.net": "INACTIVE",
+            "dellinc.tt.omtrdc.net": "INACTIVE",
+            "ehealthinsurance.tt.omtrdc.net": "INACTIVE",
+            "oreck.tt.omtrdc.net": "INACTIVE",
+            "ringcentral.tt.omtrdc.net": "INACTIVE",
+            "wpni.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571223897": {
+            "192.168.112.2o7.net": "INACTIVE",
+            "iconhealthfitness.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571223898": {
+            "veritastechnologiesl.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571224028": {
+            "asadventure.tt.omtrdc.net": "INACTIVE",
+            "nyandcompany.com.ssl.sc.omtrdc.net": "INACTIVE"
+        },
+        "1571224159": {
+            "condenast.insight.omtrdc.net": "INACTIVE"
+        },
+        "1571224290": {
+            "boscovs.com.ssl.sc.omtrdc.net": "INACTIVE"
         }
     }
 }
