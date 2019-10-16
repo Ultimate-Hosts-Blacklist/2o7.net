@@ -99,7 +99,6 @@
             "christianbroadcastne.tt.omtrdc.net": "INACTIVE"
         },
         "1570661728": {
-            "condenast.insight.omtrdc.net": "INACTIVE",
             "eaeacom.112.2o7.net": "INACTIVE",
             "verizonwireless.tt.omtrdc.net": "INACTIVE"
         },
@@ -275,9 +274,6 @@
         "1570791485": {
             "lowes.tt.omtrdc.net": "INACTIVE"
         },
-        "1570791615": {
-            "condenast.insight.omtrdc.net": "INACTIVE"
-        },
         "1570835083": {
             "btbusiness.tt.omtrdc.net": "INACTIVE"
         },
@@ -320,9 +316,6 @@
             "alchemyworldwide.tt.omtrdc.net": "INACTIVE",
             "netappinc.tt.omtrdc.net": "INACTIVE"
         },
-        "1570835579": {
-            "condenast.insight.omtrdc.net": "INACTIVE"
-        },
         "1570835580": {
             "marriottinternationa.tt.omtrdc.net": "INACTIVE",
             "usbank.tt.omtrdc.net": "INACTIVE"
@@ -359,7 +352,6 @@
             "comcastresidentialservices.tt.omtrdc.net": "INACTIVE"
         },
         "1570920976": {
-            "condenast.insight.omtrdc.net": "INACTIVE",
             "isaca.tt.omtrdc.net": "INACTIVE"
         },
         "1570920977": {
@@ -399,7 +391,6 @@
             "mcdonaldscorporation.tt.omtrdc.net": "INACTIVE"
         },
         "1570963843": {
-            "condenast.insight.omtrdc.net": "INACTIVE",
             "consumerreports.tt.omtrdc.net": "INACTIVE",
             "neccorp.tt.omtrdc.net": "INACTIVE",
             "toysrus.tt.omtrdc.net": "INACTIVE"
@@ -450,8 +441,7 @@
             "ringcentral.tt.omtrdc.net": "INACTIVE"
         },
         "1571007851": {
-            "angieslist.tt.omtrdc.net": "INACTIVE",
-            "condenast.insight.omtrdc.net": "INACTIVE"
+            "angieslist.tt.omtrdc.net": "INACTIVE"
         },
         "1571007982": {
             "192.168.112.2o7.net": "INACTIVE",
@@ -508,9 +498,6 @@
         "1571134727": {
             "nyandcompany.com.ssl.sc.omtrdc.net": "INACTIVE"
         },
-        "1571134858": {
-            "condenast.insight.omtrdc.net": "INACTIVE"
-        },
         "1571134859": {
             "tdameritrade.tt.omtrdc.net": "INACTIVE",
             "webroot.tt.omtrdc.net": "INACTIVE"
@@ -555,11 +542,34 @@
             "asadventure.tt.omtrdc.net": "INACTIVE",
             "nyandcompany.com.ssl.sc.omtrdc.net": "INACTIVE"
         },
-        "1571224159": {
-            "condenast.insight.omtrdc.net": "INACTIVE"
-        },
         "1571224290": {
             "boscovs.com.ssl.sc.omtrdc.net": "INACTIVE"
+        },
+        "1571266444": {
+            "verizonwireless.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571266445": {
+            "foxnews.tt.omtrdc.net": "INACTIVE",
+            "myfamilycominc.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571266446": {
+            "tirerack.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571266576": {
+            "nyandcompany.com.ssl.sc.omtrdc.net": "INACTIVE"
+        },
+        "1571266577": {
+            "softbank.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571266707": {
+            "192.168.112.2o7.net": "INACTIVE",
+            "australianewzealandb.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571266708": {
+            "directtv.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571266838": {
+            "condenast.insight.omtrdc.net": "INACTIVE"
         }
     }
 }
