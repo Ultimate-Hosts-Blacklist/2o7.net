@@ -319,9 +319,6 @@
         "1570920702": {
             "ups.tt.omtrdc.net": "INACTIVE"
         },
-        "1570920712": {
-            "softbank.tt.omtrdc.net": "INACTIVE"
-        },
         "1570920713": {
             "overstock.tt.omtrdc.net": "INACTIVE"
         },
@@ -537,9 +534,6 @@
         "1571266576": {
             "nyandcompany.com.ssl.sc.omtrdc.net": "INACTIVE"
         },
-        "1571266577": {
-            "softbank.tt.omtrdc.net": "INACTIVE"
-        },
         "1571266707": {
             "australianewzealandb.tt.omtrdc.net": "INACTIVE"
         },
@@ -637,7 +631,6 @@
         "1571429127": {
             "adobe.tt.omtrdc.net": "INACTIVE",
             "searsholdings.tt.omtrdc.net": "INACTIVE",
-            "softbank.tt.omtrdc.net": "INACTIVE",
             "verizontelecom.tt.omtrdc.net": "INACTIVE"
         },
         "1571429128": {
@@ -781,6 +774,53 @@
         },
         "1571842675": {
             "192.168.112.2o7.net": "INACTIVE"
+        },
+        "1572100661": {
+            "brightcove.112.2o7.net": "INACTIVE"
+        },
+        "1572100680": {
+            "pittsburghpostgazette.112.2o7.net": "INACTIVE"
+        },
+        "1572100704": {
+            "amdvtest.112.2o7.net": "INACTIVE"
+        },
+        "1572100720": {
+            "microsoftwlsearchcrm.112.2o7.net": "INACTIVE"
+        },
+        "1572100733": {
+            "aclu.tt.omtrdc.net": "INACTIVE",
+            "libertyglobalpaneu.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572100734": {
+            "comcast.tt.omtrdc.net": "INACTIVE",
+            "marriottinternationa.tt.omtrdc.net": "INACTIVE",
+            "trendmicro.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572100735": {
+            "premierfarnell.tt.omtrdc.net": "INACTIVE",
+            "telefonicauklimited.tt.omtrdc.net": "INACTIVE",
+            "veritastechnologiesl.tt.omtrdc.net": "INACTIVE",
+            "vodafoneindia.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572100736": {
+            "arthurmiddletoncapit.tt.omtrdc.net": "INACTIVE",
+            "ciscolearningnetwork.tt.omtrdc.net": "INACTIVE",
+            "tirerack.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572100741": {
+            "192.168.112.2o7.net": "INACTIVE",
+            "shell.tt.omtrdc.net": "INACTIVE",
+            "usaa.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572100742": {
+            "tdameritrade.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572100743": {
+            "britishskybroadcasti.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572100748": {
+            "condenast.insight.omtrdc.net": "INACTIVE",
+            "softbank.tt.omtrdc.net": "INACTIVE"
         }
     }
 }
