@@ -772,9 +772,6 @@
             "condenast.insight.omtrdc.net": "INACTIVE",
             "overstock.tt.omtrdc.net": "INACTIVE"
         },
-        "1571842675": {
-            "192.168.112.2o7.net": "INACTIVE"
-        },
         "1572100661": {
             "brightcove.112.2o7.net": "INACTIVE"
         },
@@ -808,7 +805,6 @@
             "tirerack.tt.omtrdc.net": "INACTIVE"
         },
         "1572100741": {
-            "192.168.112.2o7.net": "INACTIVE",
             "shell.tt.omtrdc.net": "INACTIVE",
             "usaa.tt.omtrdc.net": "INACTIVE"
         },
@@ -821,6 +817,36 @@
         "1572100748": {
             "condenast.insight.omtrdc.net": "INACTIVE",
             "softbank.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572187472": {
+            "insightenterprises.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572187474": {
+            "guthyrenker.tt.omtrdc.net": "INACTIVE",
+            "ringcentral.tt.omtrdc.net": "INACTIVE",
+            "usaa.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572187475": {
+            "amazonwebservicesinc.tt.omtrdc.net": "INACTIVE",
+            "verizontelecom.tt.omtrdc.net": "INACTIVE",
+            "webmdcom.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572187476": {
+            "cbtnuggets.tt.omtrdc.net": "INACTIVE",
+            "netappinc.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572187477": {
+            "jcb.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572187482": {
+            "condenast.insight.omtrdc.net": "INACTIVE",
+            "nautilus.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572187483": {
+            "productpartnersllc.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572187489": {
+            "192.168.112.2o7.net": "INACTIVE"
         }
     }
 }
