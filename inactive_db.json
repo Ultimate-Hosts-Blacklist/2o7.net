@@ -395,9 +395,6 @@
         "1570964106": {
             "makemytrip.tt.omtrdc.net": "INACTIVE"
         },
-        "1571007646": {
-            "ldschurch.tt.omtrdc.net": "INACTIVE"
-        },
         "1571007650": {
             "wpni.tt.omtrdc.net": "INACTIVE"
         },
@@ -553,7 +550,6 @@
             "toysrus.tt.omtrdc.net": "INACTIVE"
         },
         "1571309617": {
-            "ldschurch.tt.omtrdc.net": "INACTIVE",
             "ups.tt.omtrdc.net": "INACTIVE"
         },
         "1571309618": {
@@ -618,7 +614,6 @@
             "condenast.insight.omtrdc.net": "INACTIVE"
         },
         "1571429120": {
-            "ldschurch.tt.omtrdc.net": "INACTIVE",
             "marriottinternationa.tt.omtrdc.net": "INACTIVE",
             "netappinc.tt.omtrdc.net": "INACTIVE"
         },
@@ -751,8 +746,7 @@
         },
         "1571842661": {
             "amazonwebservicesinc.tt.omtrdc.net": "INACTIVE",
-            "jtt.tt.omtrdc.net": "INACTIVE",
-            "ldschurch.tt.omtrdc.net": "INACTIVE"
+            "jtt.tt.omtrdc.net": "INACTIVE"
         },
         "1571842662": {
             "joelosteenministries.tt.omtrdc.net": "INACTIVE"
@@ -847,6 +841,31 @@
         },
         "1572187489": {
             "192.168.112.2o7.net": "INACTIVE"
+        },
+        "1572360036": {
+            "asadventure.tt.omtrdc.net": "INACTIVE",
+            "legalzoom.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572360042": {
+            "192.168.112.2o7.net": "INACTIVE",
+            "marriottinternationa.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572360044": {
+            "jade853gmbh.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572360045": {
+            "symantec.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572360049": {
+            "condenast.insight.omtrdc.net": "INACTIVE"
+        },
+        "1572360050": {
+            "creditagricole.tt.omtrdc.net": "INACTIVE",
+            "netappinc.tt.omtrdc.net": "INACTIVE",
+            "productpartnersllc.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572360052": {
+            "ldschurch.tt.omtrdc.net": "INACTIVE"
         }
     }
 }
