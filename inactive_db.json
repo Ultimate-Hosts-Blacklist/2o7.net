@@ -217,9 +217,6 @@
         "1570748186": {
             "constantcontact.tt.omtrdc.net": "INACTIVE"
         },
-        "1570748234": {
-            "asadventure.tt.omtrdc.net": "INACTIVE"
-        },
         "1570748236": {
             "channel4.com.ssl.sc.omtrdc.net": "INACTIVE"
         },
@@ -360,7 +357,6 @@
             "cancertreatmente.tt.omtrdc.net": "INACTIVE"
         },
         "1570963582": {
-            "asadventure.tt.omtrdc.net": "INACTIVE",
             "duluthtrading.tt.omtrdc.net": "INACTIVE",
             "espndotcom.tt.omtrdc.net": "INACTIVE",
             "telegraphmediagroupl.tt.omtrdc.net": "INACTIVE",
@@ -514,7 +510,6 @@
             "iconhealthfitness.tt.omtrdc.net": "INACTIVE"
         },
         "1571224028": {
-            "asadventure.tt.omtrdc.net": "INACTIVE",
             "nyandcompany.com.ssl.sc.omtrdc.net": "INACTIVE"
         },
         "1571266444": {
@@ -738,6 +733,7 @@
         },
         "1571842660": {
             "americaneagleoutfitt.tt.omtrdc.net": "INACTIVE",
+            "consumerreports.tt.omtrdc.n: ": "INACTIVE",
             "consumerreports.tt.omtrdc.net": "INACTIVE"
         },
         "1571842661": {
@@ -839,7 +835,6 @@
             "192.168.112.2o7.net": "INACTIVE"
         },
         "1572360036": {
-            "asadventure.tt.omtrdc.net": "INACTIVE",
             "legalzoom.tt.omtrdc.net": "INACTIVE"
         },
         "1572360042": {
@@ -930,6 +925,31 @@
         "1572516624": {
             "creditagricole.tt.omtrdc.net": "INACTIVE",
             "searsholdings.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572619767": {
+            "192.168.112.2o7.net": "INACTIVE"
+        },
+        "1572619772": {
+            "condenast.insight.omtrdc.net": "INACTIVE"
+        },
+        "1572619774": {
+            "skype.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572619775": {
+            "softbank.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572619776": {
+            "christianbroadcastne.tt.omtrdc.net": "INACTIVE",
+            "ups.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572619777": {
+            "makemytrip.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572619778": {
+            "williamhill.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572619779": {
+            "asadventure.tt.omtrdc.net": "INACTIVE"
         }
     }
 }
