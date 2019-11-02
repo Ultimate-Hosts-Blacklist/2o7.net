@@ -858,9 +858,6 @@
         "1572360052": {
             "ldschurch.tt.omtrdc.net": "INACTIVE"
         },
-        "1572429786": {
-            "chicagosuntimes.122.2o7.net": "INACTIVE"
-        },
         "1572429804": {
             "nmcolumbia.112.2o7.net": "INACTIVE"
         },
@@ -950,6 +947,34 @@
         },
         "1572619779": {
             "asadventure.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572733334": {
+            "aolcmp.122.2o7.net": "INACTIVE"
+        },
+        "1572733348": {
+            "mapscom2.112.2o7.net": "INACTIVE"
+        },
+        "1572733366": {
+            "msnportal.112.2o7.net": "INACTIVE"
+        },
+        "1572733384": {
+            "poconorecordcom.112.2o7.net": "INACTIVE"
+        },
+        "1572733423": {
+            "condenast.insight.omtrdc.net": "INACTIVE"
+        },
+        "1572733438": {
+            "mmc.122.2o7.net": "INACTIVE"
+        },
+        "1572733449": {
+            "sevenoneintermedia.112.2o7.net": "INACTIVE"
+        },
+        "1572733452": {
+            "btbusiness.tt.omtrdc.net": "INACTIVE",
+            "consumerreports.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572733454": {
+            "espndotcom.tt.omtrdc.net": "INACTIVE"
         }
     }
 }
