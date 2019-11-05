@@ -136,7 +136,6 @@
             "verizontelecom.tt.omtrdc.net": "INACTIVE"
         },
         "1570661871": {
-            "espndotcom.tt.omtrdc.net": "INACTIVE",
             "lowes.tt.omtrdc.net": "INACTIVE"
         },
         "1570661872": {
@@ -358,7 +357,6 @@
         },
         "1570963582": {
             "duluthtrading.tt.omtrdc.net": "INACTIVE",
-            "espndotcom.tt.omtrdc.net": "INACTIVE",
             "telegraphmediagroupl.tt.omtrdc.net": "INACTIVE",
             "westernunion.tt.omtrdc.net": "INACTIVE"
         },
@@ -738,7 +736,10 @@
             "jtt.tt.omtrdc.net": "INACTIVE"
         },
         "1571842662": {
-            "joelosteenministries.tt.omtrdc.net": "INACTIVE"
+            "dellinc.tt.omtrdc.net": "INACTIVE",
+            "joelosteenministries.tt.omtrdc.net": "INACTIVE",
+            "readersdigest.tt.omtrdc.net": "INACTIVE",
+            "tdameritrade.tt.omtrdc.net": "INACTIVE"
         },
         "1571842663": {
             "dellinc.tt.omtrdc.net": "INACTIVE",
@@ -970,9 +971,6 @@
             "btbusiness.tt.omtrdc.net": "INACTIVE",
             "consumerreports.tt.omtrdc.net": "INACTIVE"
         },
-        "1572733454": {
-            "espndotcom.tt.omtrdc.net": "INACTIVE"
-        },
         "1572861938": {
             "jetbluecom2.112.2o7.net": "INACTIVE"
         },
@@ -1006,6 +1004,33 @@
         },
         "1572862013": {
             "eharmony.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572965372": {
+            "bcbsks.com.102.112.2o7.net": "INACTIVE"
+        },
+        "1572965374": {
+            "australianewzealandb.tt.omtrdc.net": "INACTIVE",
+            "rentcom.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572965375": {
+            "amazonwebservicesinc.tt.omtrdc.net": "INACTIVE",
+            "btbusiness.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572965376": {
+            "jtt.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572965377": {
+            "legalzoom.tt.omtrdc.net": "INACTIVE",
+            "marriottinternationa.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572965386": {
+            "192.168.112.2o7.net": "INACTIVE"
+        },
+        "1572965404": {
+            "condenast.insight.omtrdc.net": "INACTIVE"
+        },
+        "1572965413": {
+            "espndotcom.tt.omtrdc.net": "INACTIVE"
         }
     }
 }
