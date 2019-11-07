@@ -824,14 +824,10 @@
         "1572187483": {
             "productpartnersllc.tt.omtrdc.net": "INACTIVE"
         },
-        "1572187489": {
-            "192.168.112.2o7.net": "INACTIVE"
-        },
         "1572360036": {
             "legalzoom.tt.omtrdc.net": "INACTIVE"
         },
         "1572360042": {
-            "192.168.112.2o7.net": "INACTIVE",
             "marriottinternationa.tt.omtrdc.net": "INACTIVE"
         },
         "1572360044": {
@@ -856,9 +852,6 @@
         },
         "1572429835": {
             "australianewzealandb.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572429846": {
-            "192.168.112.2o7.net": "INACTIVE"
         },
         "1572429864": {
             "iconhealthfitness.tt.omtrdc.net": "INACTIVE"
@@ -896,7 +889,6 @@
             "virginmobileusa.tt.omtrdc.net": "INACTIVE"
         },
         "1572516620": {
-            "192.168.112.2o7.net": "INACTIVE",
             "ups.tt.omtrdc.net": "INACTIVE"
         },
         "1572516621": {
@@ -914,9 +906,6 @@
         "1572516624": {
             "creditagricole.tt.omtrdc.net": "INACTIVE",
             "searsholdings.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572619767": {
-            "192.168.112.2o7.net": "INACTIVE"
         },
         "1572619772": {
             "condenast.insight.omtrdc.net": "INACTIVE"
@@ -980,9 +969,6 @@
         "1572861976": {
             "symantec.tt.omtrdc.net": "INACTIVE"
         },
-        "1572861981": {
-            "192.168.112.2o7.net": "INACTIVE"
-        },
         "1572861983": {
             "consumerreports.tt.omtrdc.n:": "INVALID"
         },
@@ -1017,9 +1003,6 @@
             "legalzoom.tt.omtrdc.net": "INACTIVE",
             "marriottinternationa.tt.omtrdc.net": "INACTIVE"
         },
-        "1572965386": {
-            "192.168.112.2o7.net": "INACTIVE"
-        },
         "1572965404": {
             "condenast.insight.omtrdc.net": "INACTIVE"
         },
@@ -1037,9 +1020,6 @@
         "1572992340": {
             "americaneagleoutfitt.tt.omtrdc.net": "INACTIVE"
         },
-        "1572992345": {
-            "192.168.112.2o7.net": "INACTIVE"
-        },
         "1572992346": {
             "isaca.tt.omtrdc.net": "INACTIVE",
             "marriottinternationa.tt.omtrdc.net": "INACTIVE"
@@ -1051,6 +1031,34 @@
         "1572992354": {
             "condenast.insight.omtrdc.net": "INACTIVE",
             "nautilus.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573120997": {
+            "snagajob.122.2o7.net": "INACTIVE"
+        },
+        "1573121046": {
+            "capecodonlinecom.112.2o7.net": "INACTIVE"
+        },
+        "1573121058": {
+            "creditagricole.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573121061": {
+            "overstock.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573121062": {
+            "consumerinfo.tt.omtrdc.net": "INACTIVE",
+            "primetimesolutions.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573121063": {
+            "deseretdigitalmedia.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573121069": {
+            "condenast.insight.omtrdc.net": "INACTIVE"
+        },
+        "1573121070": {
+            "gigamon.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573121075": {
+            "192.168.112.2o7.net": "INACTIVE"
         }
     }
 }
