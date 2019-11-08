@@ -114,7 +114,6 @@
             "nyandcompany.com.ssl.sc.omtrdc.net": "INACTIVE"
         },
         "1570661864": {
-            "jcb.tt.omtrdc.net": "INACTIVE",
             "kaboose.112.2o7.net": "INACTIVE"
         },
         "1570661865": {
@@ -815,9 +814,6 @@
             "cbtnuggets.tt.omtrdc.net": "INACTIVE",
             "netappinc.tt.omtrdc.net": "INACTIVE"
         },
-        "1572187477": {
-            "jcb.tt.omtrdc.net": "INACTIVE"
-        },
         "1572187482": {
             "condenast.insight.omtrdc.net": "INACTIVE"
         },
@@ -894,9 +890,6 @@
         "1572516621": {
             "cbtnuggets.tt.omtrdc.net": "INACTIVE",
             "shell.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572516622": {
-            "jcb.tt.omtrdc.net": "INACTIVE"
         },
         "1572516623": {
             "autodesk.tt.omtrdc.net": "INACTIVE",
@@ -1059,6 +1052,48 @@
         },
         "1573121075": {
             "192.168.112.2o7.net": "INACTIVE"
+        },
+        "1573181410": {
+            "intuitinc.122.2o7.net": "INACTIVE"
+        },
+        "1573181424": {
+            "bellglobemediapublishing.122.2o7.net": "INACTIVE"
+        },
+        "1573181436": {
+            "mgwcbd.112.2o7.net": "INACTIVE"
+        },
+        "1573181449": {
+            "msnmercom.112.2o7.net": "INACTIVE"
+        },
+        "1573181463": {
+            "wbprocurement.112.2o7.net": "INACTIVE"
+        },
+        "1573181485": {
+            "veritastechnologiesl.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573181486": {
+            "comcastresidentialservices.tt.omtrdc.net": "INACTIVE",
+            "deseretdigitalmedia.tt.omtrdc.net": "INACTIVE",
+            "netappinc.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573181487": {
+            "christianbroadcastne.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573181488": {
+            "angieslist.tt.omtrdc.net": "INACTIVE",
+            "premierfarnell.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573181490": {
+            "aclu.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573181500": {
+            "condenast.insight.omtrdc.net": "INACTIVE"
+        },
+        "1573181511": {
+            "pennwellco.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573181522": {
+            "jcb.tt.omtrdc.net": "INACTIVE"
         }
     }
 }
