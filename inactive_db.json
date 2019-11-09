@@ -11,7 +11,6 @@
         },
         "1570661315": {
             "clubmed.112.2o7.net": "INACTIVE",
-            "gntbcstwmaz.112.2o7.net": "INACTIVE",
             "scrippsfrontdoor.112.2o7.net": "INACTIVE"
         },
         "1570661316": {
@@ -738,6 +737,7 @@
             "shell.tt.omtrdc.net": "INACTIVE"
         },
         "1571842665": {
+            "overstock.tt.omtrdc.net": "INACTIVE",
             "ubm.tt.omtrdc.net": "INACTIVE"
         },
         "1571842670": {
@@ -1117,6 +1117,37 @@
         "1573251157": {
             "ciscolearningnetwork.tt.omtrdc.net": "INACTIVE",
             "toysrus.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573294054": {
+            "christianscience.tt.omtrdc.net": "INACTIVE",
+            "williamhill.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573294055": {
+            "channel4.com.ssl.sc.omtrdc.net": "INACTIVE",
+            "vodafoneindia.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573294056": {
+            "eharmony.tt.omtrdc.net": "INACTIVE",
+            "nautilus.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573294061": {
+            "condenast.insight.omtrdc.net": "INACTIVE"
+        },
+        "1573294063": {
+            "consumerreports.tt.omtrdc.n:": "INVALID",
+            "trendmicro.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573294064": {
+            "softbank.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573294065": {
+            "overstock.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573294066": {
+            "jcb.tt.omtrdc.net": "INACTIVE"
+        },
+        "1573294070": {
+            "192.168.112.2o7.net": "INACTIVE"
         }
     }
 }
