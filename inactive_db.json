@@ -43,7 +43,6 @@
             "preferredhotelgroup.d2.sc.omtrdc.net": "INACTIVE"
         },
         "1570661455": {
-            "albanytimesunion.122.2o7.net": "INACTIVE",
             "angiba.112.2o7.net": "INACTIVE",
             "joelosteenministries.112.2o7.net": "INACTIVE"
         },
@@ -1107,6 +1106,15 @@
         },
         "1573294070": {
             "192.168.112.2o7.net": "INACTIVE"
+        },
+        "1574090503": {
+            "192.168.112.2o7.net": "INACTIVE"
+        },
+        "1574090521": {
+            "bcbsks.com.102.112.2o7.net": "INACTIVE"
+        },
+        "1574090530": {
+            "condenast.insight.omtrdc.net": "INACTIVE"
         }
     }
 }
