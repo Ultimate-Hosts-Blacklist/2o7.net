@@ -645,9 +645,6 @@
         "1571610152": {
             "boscovs.com.ssl.sc.omtrdc.net": "INACTIVE"
         },
-        "1571610180": {
-            "timecom.112.2o7.net": "INACTIVE"
-        },
         "1571738932": {
             "aoldlama.122.2o7.net": "INACTIVE"
         },
@@ -1136,6 +1133,21 @@
         },
         "1574158310": {
             "condenast.insight.omtrdc.net": "INACTIVE"
+        },
+        "1574263729": {
+            "192.168.112.2o7.net": "INACTIVE"
+        },
+        "1574263735": {
+            "verizonwireless.tt.omtrdc.net": "INACTIVE"
+        },
+        "1574263747": {
+            "condenast.insight.omtrdc.net": "INACTIVE"
+        },
+        "1574263754": {
+            "jcb.tt.omtrdc.net": "INACTIVE"
+        },
+        "1574263765": {
+            "insightenterprises.tt.omtrdc.net": "INACTIVE"
         }
     }
 }
