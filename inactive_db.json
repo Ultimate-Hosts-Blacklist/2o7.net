@@ -1148,9 +1148,6 @@
         "1574263765": {
             "insightenterprises.tt.omtrdc.net": "INACTIVE"
         },
-        "1574330947": {
-            "scrippsfineliving.112.2o7.net": "INACTIVE"
-        },
         "1574331002": {
             "cnhicrossvillechronicle.122.2o7.net": "INACTIVE"
         },
@@ -1168,6 +1165,15 @@
         },
         "1574331210": {
             "192.168.112.2o7.net": "INACTIVE"
+        },
+        "1574436668": {
+            "192.168.112.2o7.net": "INACTIVE"
+        },
+        "1574436685": {
+            "condenast.insight.omtrdc.net": "INACTIVE"
+        },
+        "1574436691": {
+            "channel4.com.ssl.sc.omtrdc.net": "INACTIVE"
         }
     }
 }
