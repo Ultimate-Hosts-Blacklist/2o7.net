@@ -143,9 +143,6 @@
         "1570705225": {
             "usbank.tt.omtrdc.net": "INACTIVE"
         },
-        "1570705226": {
-            "comcastresidentialservices.tt.omtrdc.net": "INACTIVE"
-        },
         "1570705228": {
             "insightenterprises.tt.omtrdc.net": "INACTIVE"
         },
@@ -309,9 +306,6 @@
             "telegraphmediagroupl.tt.omtrdc.net": "INACTIVE",
             "webmdcom.tt.omtrdc.net": "INACTIVE"
         },
-        "1570920847": {
-            "comcastresidentialservices.tt.omtrdc.net": "INACTIVE"
-        },
         "1570920976": {
             "isaca.tt.omtrdc.net": "INACTIVE"
         },
@@ -456,7 +450,6 @@
             "guthyrenker.tt.omtrdc.net": "INACTIVE"
         },
         "1571223764": {
-            "comcastresidentialservices.tt.omtrdc.net": "INACTIVE",
             "constantcontact.tt.omtrdc.net": "INACTIVE",
             "mcdonaldscorporation.tt.omtrdc.net": "INACTIVE",
             "rentcom.tt.omtrdc.net": "INACTIVE"
@@ -793,7 +786,6 @@
             "iconhealthfitness.tt.omtrdc.net": "INACTIVE"
         },
         "1572429872": {
-            "comcastresidentialservices.tt.omtrdc.net": "INACTIVE",
             "imeem.112.2o7.net": "INACTIVE"
         },
         "1572429873": {
@@ -1008,7 +1000,6 @@
             "veritastechnologiesl.tt.omtrdc.net": "INACTIVE"
         },
         "1573181486": {
-            "comcastresidentialservices.tt.omtrdc.net": "INACTIVE",
             "deseretdigitalmedia.tt.omtrdc.net": "INACTIVE",
             "netappinc.tt.omtrdc.net": "INACTIVE"
         },
@@ -1189,6 +1180,12 @@
         },
         "1574678547": {
             "viaatomv6.112.2o7.net": "INACTIVE"
+        },
+        "1574721960": {
+            "bbvacolombia.sc.omtrdc.net": "INACTIVE"
+        },
+        "1574722161": {
+            "consumerreports.tt.omtrdc.n:": "INVALID"
         }
     }
 }
