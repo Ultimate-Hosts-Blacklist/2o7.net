@@ -363,9 +363,6 @@
         "1570964106": {
             "makemytrip.tt.omtrdc.net": "INACTIVE"
         },
-        "1571007650": {
-            "wpni.tt.omtrdc.net": "INACTIVE"
-        },
         "1571007658": {
             "autodesk.tt.omtrdc.net": "INACTIVE"
         },
@@ -469,8 +466,7 @@
             "dellinc.tt.omtrdc.net": "INACTIVE",
             "ehealthinsurance.tt.omtrdc.net": "INACTIVE",
             "oreck.tt.omtrdc.net": "INACTIVE",
-            "ringcentral.tt.omtrdc.net": "INACTIVE",
-            "wpni.tt.omtrdc.net": "INACTIVE"
+            "ringcentral.tt.omtrdc.net": "INACTIVE"
         },
         "1571223897": {
             "iconhealthfitness.tt.omtrdc.net": "INACTIVE"
@@ -511,8 +507,7 @@
         },
         "1571309618": {
             "netappinc.tt.omtrdc.net": "INACTIVE",
-            "usbank.tt.omtrdc.net": "INACTIVE",
-            "wpni.tt.omtrdc.net": "INACTIVE"
+            "usbank.tt.omtrdc.net": "INACTIVE"
         },
         "1571309749": {
             "dellinc.tt.omtrdc.net": "INACTIVE",
@@ -534,8 +529,7 @@
         "1571393238": {
             "consumerreports.tt.omtrdc.net": "INACTIVE",
             "mcdonaldscorporation.tt.omtrdc.net": "INACTIVE",
-            "verizontelecom.tt.omtrdc.net": "INACTIVE",
-            "wpni.tt.omtrdc.net": "INACTIVE"
+            "verizontelecom.tt.omtrdc.net": "INACTIVE"
         },
         "1571393243": {
             "condenast.insight.omtrdc.net": "INACTIVE",
@@ -1189,6 +1183,12 @@
         },
         "1574608991": {
             "cbtnuggets.tt.omtrdc.net": "INACTIVE"
+        },
+        "1574678433": {
+            "nortelcom.112.2o7.net": "INACTIVE"
+        },
+        "1574678547": {
+            "viaatomv6.112.2o7.net": "INACTIVE"
         }
     }
 }
