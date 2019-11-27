@@ -149,9 +149,6 @@
         "1570705230": {
             "telegraphmediagroupl.tt.omtrdc.net": "INACTIVE"
         },
-        "1570705284": {
-            "angieslist.tt.omtrdc.net": "INACTIVE"
-        },
         "1570705285": {
             "libertyglobalpaneu.tt.omtrdc.net": "INACTIVE",
             "microsoftwindowscom.tt.omtrdc.net": "INACTIVE"
@@ -380,9 +377,6 @@
             "alchemyworldwide.tt.omtrdc.net": "INACTIVE",
             "ringcentral.tt.omtrdc.net": "INACTIVE"
         },
-        "1571007851": {
-            "angieslist.tt.omtrdc.net": "INACTIVE"
-        },
         "1571007982": {
             "creditagricole.tt.omtrdc.net": "INACTIVE"
         },
@@ -413,7 +407,6 @@
             "westernunion.tt.omtrdc.net": "INACTIVE"
         },
         "1571094097": {
-            "angieslist.tt.omtrdc.net": "INACTIVE",
             "insightenterprises.tt.omtrdc.net": "INACTIVE",
             "premierfarnell.tt.omtrdc.net": "INACTIVE",
             "verizonwireless.tt.omtrdc.net": "INACTIVE",
@@ -555,7 +548,6 @@
         },
         "1571429126": {
             "alchemyworldwide.tt.omtrdc.net": "INACTIVE",
-            "angieslist.tt.omtrdc.net": "INACTIVE",
             "educationmanagementl.tt.omtrdc.net": "INACTIVE"
         },
         "1571429127": {
@@ -595,7 +587,6 @@
             "primetimesolutions.tt.omtrdc.net": "INACTIVE"
         },
         "1571523458": {
-            "angieslist.tt.omtrdc.net": "INACTIVE",
             "telegraphmediagroupl.tt.omtrdc.net": "INACTIVE"
         },
         "1571523459": {
@@ -1004,7 +995,6 @@
             "christianbroadcastne.tt.omtrdc.net": "INACTIVE"
         },
         "1573181488": {
-            "angieslist.tt.omtrdc.net": "INACTIVE",
             "premierfarnell.tt.omtrdc.net": "INACTIVE"
         },
         "1573181490": {
@@ -1180,6 +1170,9 @@
         },
         "1574868347": {
             "consumerreports.tt.omtrdc.n:": "INVALID"
+        },
+        "1574894153": {
+            "nortelcom.112.2o7.net": "INACTIVE"
         }
     }
 }
