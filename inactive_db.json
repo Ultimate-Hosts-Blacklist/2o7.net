@@ -253,7 +253,6 @@
             "adobe.tt.omtrdc.net": "INACTIVE"
         },
         "1570835182": {
-            "aclu.tt.omtrdc.net": "INACTIVE",
             "mcdonaldscorporation.tt.omtrdc.net": "INACTIVE"
         },
         "1570835183": {
@@ -688,7 +687,6 @@
             "microsoftwlsearchcrm.112.2o7.net": "INACTIVE"
         },
         "1572100733": {
-            "aclu.tt.omtrdc.net": "INACTIVE",
             "libertyglobalpaneu.tt.omtrdc.net": "INACTIVE"
         },
         "1572100735": {
@@ -988,9 +986,6 @@
         "1573181488": {
             "premierfarnell.tt.omtrdc.net": "INACTIVE"
         },
-        "1573181490": {
-            "aclu.tt.omtrdc.net": "INACTIVE"
-        },
         "1573181500": {
             "condenast.insight.omtrdc.net": "INACTIVE"
         },
@@ -1164,6 +1159,21 @@
         },
         "1574894153": {
             "nortelcom.112.2o7.net": "INACTIVE"
+        },
+        "1575802305": {
+            "cartoonnetwork.122.2o7.net": "INACTIVE"
+        },
+        "1575802375": {
+            "redhat.sc.omtrdc.net": "INACTIVE"
+        },
+        "1575802460": {
+            "telegraphmediagroup.d3.sc.omtrdc.net": "INACTIVE"
+        },
+        "1575802522": {
+            "affilcrtopcolle.112.2o7.net": "INACTIVE"
+        },
+        "1575802612": {
+            "care2.112.2o7.net": "INACTIVE"
         }
     }
 }
