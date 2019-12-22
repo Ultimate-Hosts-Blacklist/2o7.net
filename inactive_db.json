@@ -253,7 +253,8 @@
             "netappinc.tt.omtrdc.net": "INACTIVE"
         },
         "1570920696": {
-            "tirerack.tt.omtrdc.net": "INACTIVE"
+            "tirerack.tt.omtrdc.net": "INACTIVE",
+            "ups.tt.omtrdc.net": "INACTIVE"
         },
         "1570920702": {
             "ups.tt.omtrdc.net": "INACTIVE"
@@ -455,9 +456,6 @@
         },
         "1571393200": {
             "newyorkandcompany.112.2o7.net": "INACTIVE"
-        },
-        "1571393214": {
-            "superpagesdexknowsprod.122.2o7.net": "INACTIVE"
         },
         "1571393238": {
             "consumerreports.tt.omtrdc.net": "INACTIVE",
