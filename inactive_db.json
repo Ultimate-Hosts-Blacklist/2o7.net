@@ -173,9 +173,6 @@
         "1570748186": {
             "constantcontact.tt.omtrdc.net": "INACTIVE"
         },
-        "1570748236": {
-            "channel4.com.ssl.sc.omtrdc.net": "INACTIVE"
-        },
         "1570748237": {
             "permissioninteractiv.tt.omtrdc.net": "INACTIVE"
         },
@@ -310,9 +307,6 @@
             "consumerinfo.tt.omtrdc.net": "INACTIVE",
             "oreck.tt.omtrdc.net": "INACTIVE"
         },
-        "1570964105": {
-            "channel4.com.ssl.sc.omtrdc.net": "INACTIVE"
-        },
         "1570964106": {
             "makemytrip.tt.omtrdc.net": "INACTIVE"
         },
@@ -427,9 +421,6 @@
         },
         "1571309582": {
             "telefonicauklimited.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571309583": {
-            "channel4.com.ssl.sc.omtrdc.net": "INACTIVE"
         },
         "1571309617": {
             "ups.tt.omtrdc.net": "INACTIVE"
@@ -935,9 +926,6 @@
             "christianscience.tt.omtrdc.net": "INACTIVE",
             "williamhill.tt.omtrdc.net": "INACTIVE"
         },
-        "1573294055": {
-            "channel4.com.ssl.sc.omtrdc.net": "INACTIVE"
-        },
         "1573294056": {
             "eharmony.tt.omtrdc.net": "INACTIVE",
             "nautilus.tt.omtrdc.net": "INACTIVE"
@@ -1008,9 +996,6 @@
         "1574436685": {
             "condenast.insight.omtrdc.net": "INACTIVE"
         },
-        "1574436691": {
-            "channel4.com.ssl.sc.omtrdc.net": "INACTIVE"
-        },
         "1574608624": {
             "evepdaikencom.112.2o7.net": "INACTIVE"
         },
@@ -1079,6 +1064,27 @@
         },
         "1577141275": {
             "aporg.112.2o7.net": "INACTIVE"
+        },
+        "1577269826": {
+            "nysun.com.112.2o7.net": "INACTIVE"
+        },
+        "1577270016": {
+            "winecom.112.2o7.net": "INACTIVE"
+        },
+        "1577270132": {
+            "ccrgaviscom.112.2o7.net": "INACTIVE"
+        },
+        "1577270160": {
+            "aumonewcarcom.112.2o7.net": "INACTIVE"
+        },
+        "1577270217": {
+            "poacprod.122.2o7.net": "INACTIVE"
+        },
+        "1577270355": {
+            "tnttv.112.2o7.net": "INACTIVE"
+        },
+        "1577270398": {
+            "channel4.com.ssl.sc.omtrdc.net": "INACTIVE"
         }
     }
 }
