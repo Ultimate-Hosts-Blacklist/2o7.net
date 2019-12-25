@@ -363,9 +363,6 @@
             "webroot.tt.omtrdc.net": "INACTIVE",
             "williamhill.tt.omtrdc.net": "INACTIVE"
         },
-        "1571094228": {
-            "dellinc.tt.omtrdc.net": "INACTIVE"
-        },
         "1571134597": {
             "mcafee12.tt.omtrdc.net": "INACTIVE",
             "pennwellco.tt.omtrdc.net": "INACTIVE"
@@ -392,7 +389,6 @@
         },
         "1571223765": {
             "consumerreports.tt.omtrdc.net": "INACTIVE",
-            "dellinc.tt.omtrdc.net": "INACTIVE",
             "ehealthinsurance.tt.omtrdc.net": "INACTIVE",
             "oreck.tt.omtrdc.net": "INACTIVE",
             "ringcentral.tt.omtrdc.net": "INACTIVE"
@@ -429,7 +425,6 @@
             "netappinc.tt.omtrdc.net": "INACTIVE"
         },
         "1571309749": {
-            "dellinc.tt.omtrdc.net": "INACTIVE",
             "legalzoom.tt.omtrdc.net": "INACTIVE"
         },
         "1571309750": {
@@ -573,12 +568,10 @@
             "jtt.tt.omtrdc.net": "INACTIVE"
         },
         "1571842662": {
-            "dellinc.tt.omtrdc.net": "INACTIVE",
             "joelosteenministries.tt.omtrdc.net": "INACTIVE",
             "tdameritrade.tt.omtrdc.net": "INACTIVE"
         },
         "1571842663": {
-            "dellinc.tt.omtrdc.net": "INACTIVE",
             "tdameritrade.tt.omtrdc.net": "INACTIVE"
         },
         "1571842665": {
@@ -915,9 +908,6 @@
         "1573251154": {
             "jtt.tt.omtrdc.net": "INACTIVE"
         },
-        "1573251156": {
-            "dellinc.tt.omtrdc.net": "INACTIVE"
-        },
         "1573251157": {
             "ciscolearningnetwork.tt.omtrdc.net": "INACTIVE",
             "toysrus.tt.omtrdc.net": "INACTIVE"
@@ -1085,6 +1075,21 @@
         },
         "1577270398": {
             "channel4.com.ssl.sc.omtrdc.net": "INACTIVE"
+        },
+        "1577312946": {
+            "newyorkmagazine.112.2o7.net": "INACTIVE"
+        },
+        "1577313061": {
+            "hallmarkibmcom.112.2o7.net": "INACTIVE"
+        },
+        "1577313113": {
+            "cbspgatour.112.2o7.net": "INACTIVE"
+        },
+        "1577313141": {
+            "amazonwebstore.122.2o7.net": "INACTIVE"
+        },
+        "1577313378": {
+            "santacruzsentinelcom.112.2o7.net": "INACTIVE"
         }
     }
 }
