@@ -1,8 +1,8 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Sat Dec 28 15:54:45 2019",
-    "end_epoch": 1577548485.755926,
+    "end_datetime": "Sat Dec 28 22:41:47 2019",
+    "end_epoch": 1577572907.94529,
     "last_autosave_datetime": "Thu Dec 26 22:55:25 2019",
     "last_autosave_epoch": 1577400925.331722,
     "name": "2o7.net",
@@ -20,6 +20,6 @@
         "whitelisted.list": 1289
     },
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
-    "start_datetime": "Sat Dec 28 15:50:30 2019",
-    "start_epoch": 1577548230.923012
+    "start_datetime": "Sat Dec 28 22:37:44 2019",
+    "start_epoch": 1577572664.72861
 }
