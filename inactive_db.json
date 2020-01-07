@@ -36,7 +36,6 @@
             "joelosteenministries.112.2o7.net": "INACTIVE"
         },
         "1570661456": {
-            "mmc.122.2o7.net": "INACTIVE",
             "nikerunning.112.2o7.net": "INACTIVE"
         },
         "1570661457": {
@@ -715,9 +714,6 @@
         "1572733423": {
             "condenast.insight.omtrdc.net": "INACTIVE"
         },
-        "1572733438": {
-            "mmc.122.2o7.net": "INACTIVE"
-        },
         "1572733449": {
             "sevenoneintermedia.112.2o7.net": "INACTIVE"
         },
@@ -1082,6 +1078,18 @@
         },
         "1578066800": {
             "petakfc.112.2o7.net": "INACTIVE"
+        },
+        "1578412895": {
+            "ziffdavispennyarcade.112.2o7.net": "INACTIVE"
+        },
+        "1578412947": {
+            "multiview.122.2o7.net": "INACTIVE"
+        },
+        "1578413006": {
+            "hickoryfarms.112.2o7.net": "INACTIVE"
+        },
+        "1578413075": {
+            "cruisecritic.112.2o7.net": "INACTIVE"
         }
     }
 }
