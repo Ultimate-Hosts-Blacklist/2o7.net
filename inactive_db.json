@@ -560,9 +560,6 @@
         "1572100661": {
             "brightcove.112.2o7.net": "INACTIVE"
         },
-        "1572100680": {
-            "pittsburghpostgazette.112.2o7.net": "INACTIVE"
-        },
         "1572100704": {
             "amdvtest.112.2o7.net": "INACTIVE"
         },
@@ -1090,6 +1087,12 @@
         },
         "1578413075": {
             "cruisecritic.112.2o7.net": "INACTIVE"
+        },
+        "1578436761": {
+            "mxmacromedia.112.2o7.net": "INACTIVE"
+        },
+        "1578437012": {
+            "electronicarts.112.2o7.net": "INACTIVE"
         }
     }
 }
