@@ -198,9 +198,6 @@
         "1570835083": {
             "btbusiness.tt.omtrdc.net": "INACTIVE"
         },
-        "1570835084": {
-            "directtv.tt.omtrdc.net": "INACTIVE"
-        },
         "1570835089": {
             "mcafee12.tt.omtrdc.net": "INACTIVE"
         },
@@ -389,9 +386,6 @@
         },
         "1571266707": {
             "australianewzealandb.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571266708": {
-            "directtv.tt.omtrdc.net": "INACTIVE"
         },
         "1571266838": {
             "condenast.insight.omtrdc.net": "INACTIVE"
@@ -660,7 +654,6 @@
             "foxnews.tt.omtrdc.net": "INACTIVE"
         },
         "1572516615": {
-            "directtv.tt.omtrdc.net": "INACTIVE",
             "virginmobileusa.tt.omtrdc.net": "INACTIVE"
         },
         "1572516620": {
@@ -1093,6 +1086,21 @@
         },
         "1578437012": {
             "electronicarts.112.2o7.net": "INACTIVE"
+        },
+        "1578479670": {
+            "yrkdsp.112.2o7.net": "INACTIVE"
+        },
+        "1578479919": {
+            "couhome.112.2o7.net": "INACTIVE"
+        },
+        "1578479949": {
+            "rmgparcelforcecom.112.2o7.net": "INACTIVE"
+        },
+        "1578480063": {
+            "smbc.sc.omtrdc.net": "INACTIVE"
+        },
+        "1578480095": {
+            "timepeople.122.2o7.net": "INACTIVE"
         }
     }
 }
