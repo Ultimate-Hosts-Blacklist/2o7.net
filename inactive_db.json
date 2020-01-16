@@ -140,9 +140,6 @@
         "1570748182": {
             "ringcentral.tt.omtrdc.net": "INACTIVE"
         },
-        "1570748183": {
-            "nationalbankofnewzea.tt.omtrdc.net": "INACTIVE"
-        },
         "1570748184": {
             "myfamilycominc.tt.omtrdc.net": "INACTIVE"
         },
@@ -297,8 +294,7 @@
             "telegraphmediagroupl.tt.omtrdc.net": "INACTIVE"
         },
         "1571007720": {
-            "lowes.tt.omtrdc.net": "INACTIVE",
-            "nationalbankofnewzea.tt.omtrdc.net": "INACTIVE"
+            "lowes.tt.omtrdc.net": "INACTIVE"
         },
         "1571007721": {
             "alchemyworldwide.tt.omtrdc.net": "INACTIVE",
@@ -766,9 +762,6 @@
         "1573181522": {
             "jcb.tt.omtrdc.net": "INACTIVE"
         },
-        "1573251140": {
-            "nationalbankofnewzea.tt.omtrdc.net": "INACTIVE"
-        },
         "1573251146": {
             "myfamilycominc.tt.omtrdc.net": "INACTIVE"
         },
@@ -1040,6 +1033,12 @@
             "consumerreports.tt.omtrdc.n:": "INVALID"
         },
         "1579189026": {
+            "consumerreports.tt.omtrdc.n:": "INVALID"
+        },
+        "1579212895": {
+            "consumerreports.tt.omtrdc.n:": "INVALID"
+        },
+        "1579212943": {
             "consumerreports.tt.omtrdc.n:": "INVALID"
         }
     }
