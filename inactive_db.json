@@ -106,9 +106,6 @@
         "1570705221": {
             "reunion.tt.omtrdc.net": "INACTIVE"
         },
-        "1570705224": {
-            "educationmanagementl.tt.omtrdc.net": "INACTIVE"
-        },
         "1570705228": {
             "insightenterprises.tt.omtrdc.net": "INACTIVE"
         },
@@ -429,8 +426,7 @@
             "netappinc.tt.omtrdc.net": "INACTIVE"
         },
         "1571429126": {
-            "alchemyworldwide.tt.omtrdc.net": "INACTIVE",
-            "educationmanagementl.tt.omtrdc.net": "INACTIVE"
+            "alchemyworldwide.tt.omtrdc.net": "INACTIVE"
         },
         "1571429127": {
             "adobe.tt.omtrdc.net": "INACTIVE",
@@ -673,9 +669,6 @@
         "1572861975": {
             "constantcontact.tt.omtrdc.net": "INACTIVE"
         },
-        "1572861984": {
-            "educationmanagementl.tt.omtrdc.net": "INACTIVE"
-        },
         "1572862000": {
             "gntbcstwcsh.112.2o7.net": "INACTIVE"
         },
@@ -775,9 +768,6 @@
         },
         "1573251140": {
             "nationalbankofnewzea.tt.omtrdc.net": "INACTIVE"
-        },
-        "1573251141": {
-            "educationmanagementl.tt.omtrdc.net": "INACTIVE"
         },
         "1573251146": {
             "myfamilycominc.tt.omtrdc.net": "INACTIVE"
@@ -1047,6 +1037,9 @@
             "consumerreports.tt.omtrdc.n:": "INVALID"
         },
         "1579042214": {
+            "consumerreports.tt.omtrdc.n:": "INVALID"
+        },
+        "1579189026": {
             "consumerreports.tt.omtrdc.n:": "INVALID"
         }
     }
