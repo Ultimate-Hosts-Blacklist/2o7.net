@@ -1,17 +1,8 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 0,
-            "invalid": 1,
-            "tested": 1274,
-            "up": 1273
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Fri Jan 17 23:05:29 2020",
-    "end_epoch": 1579302329.806568,
+    "end_datetime": "Sat Jan 18 23:10:02 2020",
+    "end_epoch": 1579389002.164775,
     "last_autosave_datetime": "Sat Jan 18 22:16:39 2020",
     "last_autosave_epoch": 1579385799.820657,
     "name": "2o7.net",
