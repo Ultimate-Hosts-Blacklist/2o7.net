@@ -160,9 +160,6 @@
         "1570748247": {
             "australianewzealandb.tt.omtrdc.net": "INACTIVE"
         },
-        "1570748280": {
-            "jtt.tt.omtrdc.net": "INACTIVE"
-        },
         "1570748292": {
             "joelosteenministries.tt.omtrdc.net": "INACTIVE"
         },
@@ -395,9 +392,6 @@
             "consumerreports.tt.omtrdc.net": "INACTIVE",
             "mcdonaldscorporation.tt.omtrdc.net": "INACTIVE"
         },
-        "1571393243": {
-            "jtt.tt.omtrdc.net": "INACTIVE"
-        },
         "1571393244": {
             "virginmobileusa.tt.omtrdc.net": "INACTIVE"
         },
@@ -500,9 +494,6 @@
             "americaneagleoutfitt.tt.omtrdc.net": "INACTIVE",
             "consumerreports.tt.omtrdc.n: ": "INACTIVE",
             "consumerreports.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571842661": {
-            "jtt.tt.omtrdc.net": "INACTIVE"
         },
         "1571842662": {
             "joelosteenministries.tt.omtrdc.net": "INACTIVE",
@@ -673,9 +664,6 @@
         "1572965375": {
             "btbusiness.tt.omtrdc.net": "INACTIVE"
         },
-        "1572965376": {
-            "jtt.tt.omtrdc.net": "INACTIVE"
-        },
         "1572965377": {
             "legalzoom.tt.omtrdc.net": "INACTIVE"
         },
@@ -763,9 +751,6 @@
         },
         "1573251149": {
             "asadventure.tt.omtrdc.net": "INACTIVE"
-        },
-        "1573251154": {
-            "jtt.tt.omtrdc.net": "INACTIVE"
         },
         "1573251157": {
             "ciscolearningnetwork.tt.omtrdc.net": "INACTIVE",
@@ -1047,6 +1032,12 @@
         },
         "1579429335": {
             "stepstone.112.2o7.net": "INACTIVE"
+        },
+        "1579432626": {
+            "consumerreports.tt.omtrdc.n:": "INVALID"
+        },
+        "1579432691": {
+            "consumerreports.tt.omtrdc.n:": "INVALID"
         }
     }
 }
