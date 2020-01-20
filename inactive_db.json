@@ -964,9 +964,6 @@
         "1578479670": {
             "yrkdsp.112.2o7.net": "INACTIVE"
         },
-        "1578479919": {
-            "couhome.112.2o7.net": "INACTIVE"
-        },
         "1578479949": {
             "rmgparcelforcecom.112.2o7.net": "INACTIVE"
         },
@@ -1041,6 +1038,9 @@
         },
         "1579523557": {
             "partygaming.122.2o7.net": "INACTIVE"
+        },
+        "1579526492": {
+            "consumerreports.tt.omtrdc.n:": "INVALID"
         }
     }
 }
