@@ -170,9 +170,6 @@
             "pennwellco.tt.omtrdc.net": "INACTIVE",
             "registercom.tt.omtrdc.net": "INACTIVE"
         },
-        "1570791209": {
-            "foxnews.tt.omtrdc.net": "INACTIVE"
-        },
         "1570791222": {
             "primetimesolutions.tt.omtrdc.net": "INACTIVE"
         },
@@ -228,7 +225,6 @@
             "permissioninteractiv.tt.omtrdc.net": "INACTIVE"
         },
         "1570920846": {
-            "foxnews.tt.omtrdc.net": "INACTIVE",
             "telegraphmediagroupl.tt.omtrdc.net": "INACTIVE"
         },
         "1570920977": {
@@ -282,7 +278,6 @@
             "usaa.tt.omtrdc.net": "INACTIVE"
         },
         "1571007686": {
-            "foxnews.tt.omtrdc.net": "INACTIVE",
             "myfamilycominc.tt.omtrdc.net": "INACTIVE",
             "telegraphmediagroupl.tt.omtrdc.net": "INACTIVE"
         },
@@ -358,7 +353,6 @@
             "verizonwireless.tt.omtrdc.net": "INACTIVE"
         },
         "1571266445": {
-            "foxnews.tt.omtrdc.net": "INACTIVE",
             "myfamilycominc.tt.omtrdc.net": "INACTIVE"
         },
         "1571266446": {
@@ -456,8 +450,7 @@
             "lastminengb.112.2o7.net": "INACTIVE"
         },
         "1571610139": {
-            "australianewzealandb.tt.omtrdc.net": "INACTIVE",
-            "foxnews.tt.omtrdc.net": "INACTIVE"
+            "australianewzealandb.tt.omtrdc.net": "INACTIVE"
         },
         "1571610145": {
             "tdameritrade.tt.omtrdc.net": "INACTIVE"
@@ -587,9 +580,6 @@
         },
         "1572516609": {
             "vodafoneuk.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572516614": {
-            "foxnews.tt.omtrdc.net": "INACTIVE"
         },
         "1572516615": {
             "virginmobileusa.tt.omtrdc.net": "INACTIVE"
@@ -1041,6 +1031,12 @@
         },
         "1579526492": {
             "consumerreports.tt.omtrdc.n:": "INVALID"
+        },
+        "1579601710": {
+            "msntrademarketing.112.2o7.net": "INACTIVE"
+        },
+        "1579601895": {
+            "cengagecsinfosec.112.2o7.net": "INACTIVE"
         }
     }
 }
