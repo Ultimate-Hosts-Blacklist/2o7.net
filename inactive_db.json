@@ -1,73 +1,165 @@
 {
     "api_call": {
-        "1580762445": {
-            "recordonlinecom.112.2o7.net": "INACTIVE"
+        "aviva.112.2o7.net": {
+            "included_at_epoch": 1581677345.0,
+            "included_at_iso": "2020-02-14T10:49:05",
+            "last_retested_at_epoch": 1581677345.0,
+            "last_retested_at_iso": "2020-02-14T10:49:05",
+            "status": "INACTIVE"
         },
-        "1581590120": {
-            "classicvacations.112.2o7.net": "INACTIVE"
+        "boscovs.com.ssl.sc.omtrdc.net": {
+            "included_at_epoch": 1582409226.0,
+            "included_at_iso": "2020-02-22T22:07:06",
+            "last_retested_at_epoch": 1582409226.0,
+            "last_retested_at_iso": "2020-02-22T22:07:06",
+            "status": "INACTIVE"
         },
-        "1581590222": {
-            "cxocomdev.112.2o7.net": "INACTIVE"
+        "builderonlinecom.112.2o7.net": {
+            "included_at_epoch": 1582585533.0,
+            "included_at_iso": "2020-02-24T23:05:33",
+            "last_retested_at_epoch": 1582585533.0,
+            "last_retested_at_iso": "2020-02-24T23:05:33",
+            "status": "INACTIVE"
         },
-        "1581590612": {
-            "tescostores.122.2o7.net": "INACTIVE"
+        "cartoonnetwork.122.2o7.net": {
+            "included_at_epoch": 1582409594.0,
+            "included_at_iso": "2020-02-22T22:13:14",
+            "last_retested_at_epoch": 1582409594.0,
+            "last_retested_at_iso": "2020-02-22T22:13:14",
+            "status": "INACTIVE"
         },
-        "1581677178": {
-            "microsoftuk.122.2o7.net": "INACTIVE"
+        "classicvacations.112.2o7.net": {
+            "included_at_epoch": 1581590120.0,
+            "included_at_iso": "2020-02-13T10:35:20",
+            "last_retested_at_epoch": 1581590120.0,
+            "last_retested_at_iso": "2020-02-13T10:35:20",
+            "status": "INACTIVE"
         },
-        "1581677345": {
-            "aviva.112.2o7.net": "INACTIVE"
+        "clubmom.122.2o7.net": {
+            "included_at_epoch": 1582498742.0,
+            "included_at_iso": "2020-02-23T22:59:02",
+            "last_retested_at_epoch": 1582498742.0,
+            "last_retested_at_iso": "2020-02-23T22:59:02",
+            "status": "INACTIVE"
         },
-        "1581720515": {
-            "stampscom.112.2o7.net": "INACTIVE"
+        "cxocomdev.112.2o7.net": {
+            "included_at_epoch": 1581590222.0,
+            "included_at_iso": "2020-02-13T10:37:02",
+            "last_retested_at_epoch": 1581590222.0,
+            "last_retested_at_iso": "2020-02-13T10:37:02",
+            "status": "INACTIVE"
         },
-        "1581720818": {
-            "tjx.112.2o7.net": "INACTIVE"
+        "directtv.tt.omtrdc.net": {
+            "included_at_epoch": 1582585217.0,
+            "included_at_iso": "2020-02-24T23:00:17",
+            "last_retested_at_epoch": 1582585217.0,
+            "last_retested_at_iso": "2020-02-24T23:00:17",
+            "status": "INACTIVE"
         },
-        "1582301272": {
-            "mngislcnac.112.2o7.net": "INACTIVE"
+        "g2.112.2o7.net": {
+            "included_at_epoch": 1582409526.0,
+            "included_at_iso": "2020-02-22T22:12:06",
+            "last_retested_at_epoch": 1582409526.0,
+            "last_retested_at_iso": "2020-02-22T22:12:06",
+            "status": "INACTIVE"
         },
-        "1582409175": {
-            "rentcom.112.2o7.net": "INACTIVE"
+        "independentdigital.d3.sc.omtrdc.net": {
+            "included_at_epoch": 1582498649.0,
+            "included_at_iso": "2020-02-23T22:57:29",
+            "last_retested_at_epoch": 1582498649.0,
+            "last_retested_at_iso": "2020-02-23T22:57:29",
+            "status": "INACTIVE"
         },
-        "1582409226": {
-            "boscovs.com.ssl.sc.omtrdc.net": "INACTIVE"
+        "jiktnv.122.2o7.net": {
+            "included_at_epoch": 1582585602.0,
+            "included_at_iso": "2020-02-24T23:06:42",
+            "last_retested_at_epoch": 1582585602.0,
+            "last_retested_at_iso": "2020-02-24T23:06:42",
+            "status": "INACTIVE"
         },
-        "1582409403": {
-            "wcastrprod.122.2o7.net": "INACTIVE"
+        "microsoftuk.122.2o7.net": {
+            "included_at_epoch": 1581677178.0,
+            "included_at_iso": "2020-02-14T10:46:18",
+            "last_retested_at_epoch": 1581677178.0,
+            "last_retested_at_iso": "2020-02-14T10:46:18",
+            "status": "INACTIVE"
         },
-        "1582409526": {
-            "g2.112.2o7.net": "INACTIVE"
+        "mngislcnac.112.2o7.net": {
+            "included_at_epoch": 1582301272.0,
+            "included_at_iso": "2020-02-21T16:07:52",
+            "last_retested_at_epoch": 1582301272.0,
+            "last_retested_at_iso": "2020-02-21T16:07:52",
+            "status": "INACTIVE"
         },
-        "1582409594": {
-            "cartoonnetwork.122.2o7.net": "INACTIVE"
+        "mxmacromedia.112.2o7.net": {
+            "included_at_epoch": 1582498555.0,
+            "included_at_iso": "2020-02-23T22:55:55",
+            "last_retested_at_epoch": 1582498555.0,
+            "last_retested_at_iso": "2020-02-23T22:55:55",
+            "status": "INACTIVE"
         },
-        "1582498377": {
-            "torstardigital.122.2o7.net": "INACTIVE"
+        "ottdailytidingscom.112.2o7.net": {
+            "included_at_epoch": 1582498526.0,
+            "included_at_iso": "2020-02-23T22:55:26",
+            "last_retested_at_epoch": 1582498526.0,
+            "last_retested_at_iso": "2020-02-23T22:55:26",
+            "status": "INACTIVE"
         },
-        "1582498526": {
-            "ottdailytidingscom.112.2o7.net": "INACTIVE"
+        "recordonlinecom.112.2o7.net": {
+            "included_at_epoch": 1580762445.0,
+            "included_at_iso": "2020-02-03T20:40:45",
+            "last_retested_at_epoch": 1580762445.0,
+            "last_retested_at_iso": "2020-02-03T20:40:45",
+            "status": "INACTIVE"
         },
-        "1582498555": {
-            "mxmacromedia.112.2o7.net": "INACTIVE"
+        "rentcom.112.2o7.net": {
+            "included_at_epoch": 1582409175.0,
+            "included_at_iso": "2020-02-22T22:06:15",
+            "last_retested_at_epoch": 1582409175.0,
+            "last_retested_at_iso": "2020-02-22T22:06:15",
+            "status": "INACTIVE"
         },
-        "1582498649": {
-            "independentdigital.d3.sc.omtrdc.net": "INACTIVE"
+        "sciamcom.112.2o7.net": {
+            "included_at_epoch": 1582585415.0,
+            "included_at_iso": "2020-02-24T23:03:35",
+            "last_retested_at_epoch": 1582585415.0,
+            "last_retested_at_iso": "2020-02-24T23:03:35",
+            "status": "INACTIVE"
         },
-        "1582498742": {
-            "clubmom.122.2o7.net": "INACTIVE"
+        "stampscom.112.2o7.net": {
+            "included_at_epoch": 1581720515.0,
+            "included_at_iso": "2020-02-14T22:48:35",
+            "last_retested_at_epoch": 1581720515.0,
+            "last_retested_at_iso": "2020-02-14T22:48:35",
+            "status": "INACTIVE"
         },
-        "1582585217": {
-            "directtv.tt.omtrdc.net": "INACTIVE"
+        "tescostores.122.2o7.net": {
+            "included_at_epoch": 1581590612.0,
+            "included_at_iso": "2020-02-13T10:43:32",
+            "last_retested_at_epoch": 1581590612.0,
+            "last_retested_at_iso": "2020-02-13T10:43:32",
+            "status": "INACTIVE"
         },
-        "1582585415": {
-            "sciamcom.112.2o7.net": "INACTIVE"
+        "tjx.112.2o7.net": {
+            "included_at_epoch": 1581720818.0,
+            "included_at_iso": "2020-02-14T22:53:38",
+            "last_retested_at_epoch": 1581720818.0,
+            "last_retested_at_iso": "2020-02-14T22:53:38",
+            "status": "INACTIVE"
         },
-        "1582585533": {
-            "builderonlinecom.112.2o7.net": "INACTIVE"
+        "torstardigital.122.2o7.net": {
+            "included_at_epoch": 1582498377.0,
+            "included_at_iso": "2020-02-23T22:52:57",
+            "last_retested_at_epoch": 1582498377.0,
+            "last_retested_at_iso": "2020-02-23T22:52:57",
+            "status": "INACTIVE"
         },
-        "1582585602": {
-            "jiktnv.122.2o7.net": "INACTIVE"
+        "wcastrprod.122.2o7.net": {
+            "included_at_epoch": 1582409403.0,
+            "included_at_iso": "2020-02-22T22:10:03",
+            "last_retested_at_epoch": 1582409403.0,
+            "last_retested_at_iso": "2020-02-22T22:10:03",
+            "status": "INACTIVE"
         }
     }
 }
