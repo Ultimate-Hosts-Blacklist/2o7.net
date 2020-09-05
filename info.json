@@ -10,7 +10,7 @@
     "name": "2o7.net",
     "previous_stats": {
         "builds": 1,
-        "clean_list": 1289,
+        "clean_list": 1266,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -21,10 +21,10 @@
             "valid": 0
         },
         "domains.list": 1286,
-        "volatile.list": 1289,
-        "whitelisted.list": 1289
+        "volatile.list": 1266,
+        "whitelisted.list": 1266
     },
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
-    "start_datetime": "2020-09-03T18:08:32.054315",
-    "start_epoch": 1599156512.054315
+    "start_datetime": "2020-09-05T17:23:14.559715",
+    "start_epoch": 1599326594.559715
 }
