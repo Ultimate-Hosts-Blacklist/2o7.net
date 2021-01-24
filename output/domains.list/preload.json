@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/2o7.net/2o7.net/domains.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "4ca30fb1c338cdbc42860d53950adc58477bc554940213aa1587803c",
+    "line_number": 2577,
+    "output_dir": "/home/runner/work/2o7.net/2o7.net/output/domains.list",
+    "previous_hash": "4ca30fb1c338cdbc42860d53950adc58477bc554940213aa1587803c",
+    "rel_source": "domains.list",
+    "session_id": "8226832b3f24cafc96d9aad9",
+    "source": "/home/runner/work/2o7.net/2o7.net/domains.list",
+    "subject": "/home/runner/work/2o7.net/2o7.net/domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
