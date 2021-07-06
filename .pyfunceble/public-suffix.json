@@ -1819,7 +1819,8 @@
         "edu.gh",
         "gov.gh",
         "mil.gh",
-        "org.gh"
+        "org.gh",
+        "org.hk"
     ],
     "gi": [
         "com.gi",
@@ -6975,6 +6976,7 @@
         "selfip.org",
         "sellsyourhome.org",
         "servebbs.org",
+        "serveftp.org",
         "servegame.org",
         "si.eu.org",
         "sk.eu.org",
@@ -7485,7 +7487,6 @@
         "pp.ru",
         "pyatigorsk.ru",
         "ras.ru",
-        "serveftp.org",
         "spb.ru",
         "spectrum.myjino.ru",
         "test.ru",
