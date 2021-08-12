@@ -1169,7 +1169,6 @@
         "is-a-llama.com",
         "is-a-musician.com",
         "is-a-nascarfan.com",
-        "is-a-nurse.com",
         "is-a-painter.com",
         "is-a-personaltrainer.com",
         "is-a-photographer.com",
@@ -6784,6 +6783,7 @@
     ],
     "nu": [
         "enterprisecloud.nu",
+        "is-a-nurse.com",
         "merseine.nu",
         "mine.nu",
         "shacknet.nu"
