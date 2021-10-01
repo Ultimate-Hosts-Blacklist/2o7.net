@@ -281,7 +281,6 @@
     ],
     "ax": [
         "be.ax",
-        "cat.ax",
         "es.ax",
         "eu.ax",
         "gg.ax",
@@ -4308,6 +4307,7 @@
         "uenohara.yamanashi.jp",
         "uji.kyoto.jp",
         "ujiie.tochigi.jp",
+        "ujitawara.kyoto.jp",
         "uki.kumamoto.jp",
         "ukiha.fukuoka.jp",
         "umaji.kochi.jp",
@@ -5940,6 +5940,7 @@
         "budejju.no",
         "bygland.no",
         "bykle.no",
+        "báhcavuotna.no",
         "báhccavuotna.no",
         "báidár.no",
         "bájddar.no",
@@ -6530,7 +6531,6 @@
         "tysvar.no",
         "tysvær.no",
         "tønsberg.no",
-        "ujitawara.kyoto.jp",
         "ullensaker.no",
         "ullensvang.no",
         "ulvik.no",
@@ -6794,6 +6794,7 @@
         "org.nr"
     ],
     "nu": [
+        "cat.ax",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
