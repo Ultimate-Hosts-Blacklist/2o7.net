@@ -679,6 +679,7 @@
         "zlg.br"
     ],
     "bs": [
+        "asso.ci",
         "com.bs",
         "edu.bs",
         "gov.bs",
@@ -819,6 +820,7 @@
         "diadem.cloud",
         "elementor.cloud",
         "es-1.axarnet.cloud",
+        "for.sale",
         "it1.eur.aruba.jenv-aruba.cloud",
         "it1.jenv-aruba.cloud",
         "jele.cloud",
@@ -4770,7 +4772,6 @@
         "ac.ls",
         "biz.ls",
         "co.ls",
-        "convent.museum",
         "de.ls",
         "edu.ls",
         "gov.ls",
@@ -7549,9 +7550,6 @@
         "org.sa",
         "pub.sa",
         "sch.sa"
-    ],
-    "sale": [
-        "for.sale"
     ],
     "sb": [
         "com.sb",
