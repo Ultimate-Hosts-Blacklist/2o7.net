@@ -423,8 +423,7 @@
         "asso.bj",
         "barreau.bj",
         "blogspot.bj",
-        "gouv.bj",
-        "hidora.com"
+        "gouv.bj"
     ],
     "bm": [
         "com.bm",
@@ -1908,6 +1907,7 @@
     "gl": [
         "biz.gl",
         "co.gl",
+        "com.gl",
         "edu.gl",
         "net.gl",
         "org.gl",
@@ -1982,7 +1982,6 @@
     ],
     "hk": [
         "blogspot.hk",
-        "com.gl",
         "com.hk",
         "edu.hk",
         "gov.hk",
