@@ -6668,7 +6668,6 @@
         "sør-varanger.no",
         "sørfold.no",
         "sørreisa.no",
-        "sørum.no",
         "tana.no",
         "tananger.no",
         "time.no",
@@ -6902,7 +6901,6 @@
         "xn--sr-varanger-ggb.no",
         "xn--srfold-bya.no",
         "xn--srreisa-q1a.no",
-        "xn--srum-gra.no",
         "xn--stjrdal-s1a.no",
         "xn--stjrdalshalsen-sqb.no",
         "xn--stre-toten-zcb.no",
@@ -7233,7 +7231,8 @@
         "mil.pe",
         "net.pe",
         "nom.pe",
-        "org.pe"
+        "org.pe",
+        "xn--srum-gra.no"
     ],
     "pf": [
         "com.pf",
