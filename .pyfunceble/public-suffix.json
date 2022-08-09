@@ -7774,7 +7774,8 @@
     ],
     "scot": [
         "edu.scot",
-        "gov.scot"
+        "gov.scot",
+        "service.gov.scot"
     ],
     "sd": [
         "com.sd",
@@ -8736,8 +8737,7 @@
         "org.ye"
     ],
     "yt": [
-        "org.yt",
-        "service.gov.scot"
+        "org.yt"
     ],
     "za": [
         "ac.za",
