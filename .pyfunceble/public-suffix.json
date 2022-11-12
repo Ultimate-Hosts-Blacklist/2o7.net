@@ -458,7 +458,6 @@
         "ecologia.bo",
         "economia.bo",
         "edu.bo",
-        "edu.br",
         "empresa.bo",
         "gob.bo",
         "indigena.bo",
@@ -1444,7 +1443,6 @@
         "theworkpc.com",
         "thingdustdata.com",
         "townnews-staging.com",
-        "translated.page",
         "try-snowplow.com",
         "trycloudflare.com",
         "tuleap-partners.com",
@@ -7297,7 +7295,8 @@
         "pdns.page",
         "plesk.page",
         "prvcy.page",
-        "rocky.page"
+        "rocky.page",
+        "translated.page"
     ],
     "party": [
         "ybo.party"
@@ -8216,6 +8215,9 @@
         "tv.tr",
         "web.tr"
     ],
+    "trade": [
+        "ybo.trade"
+    ],
     "tt": [
         "aero.tt",
         "biz.tt",
@@ -8417,8 +8419,7 @@
         "service.gov.uk",
         "vm.bytemark.co.uk",
         "weeklylottery.org.uk",
-        "wellbeingzone.co.uk",
-        "ybo.trade"
+        "wellbeingzone.co.uk"
     ],
     "us": [
         "ak.us",
