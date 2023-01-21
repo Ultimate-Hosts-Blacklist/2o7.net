@@ -1,8 +1,8 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2023-01-20T03:38:12.353900",
-    "end_epoch": 1674185892.3539,
+    "end_datetime": "2023-01-21T03:34:34.734252",
+    "end_epoch": 1674272074.734252,
     "issue_link": "https://github.com/FadeMind/hosts.extras/issues/new",
     "link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
     "name": "2o7.net",
