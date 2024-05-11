@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-smetrics.bankia.es,AVAILABILITY,domains.list,2024-05-10 03:14:02.968798
-metrics.pulte.com,AVAILABILITY,domains.list,2024-05-10 03:14:03.370656
-smetrics.ftd.com,AVAILABILITY,domains.list,2024-05-10 03:14:03.746137
-analytics.cinemax.tv,AVAILABILITY,domains.list,2024-05-10 03:14:04.180800
-analytics.eleague.com,AVAILABILITY,domains.list,2024-05-10 03:14:04.638239
-analytics.tnt.com.br,AVAILABILITY,domains.list,2024-05-10 03:14:05.547580
-sanalytics.sprint.com,AVAILABILITY,domains.list,2024-05-10 03:14:06.373623
-analytics.pogo.tv,AVAILABILITY,domains.list,2024-05-10 03:14:18.166807
-sanalytics.boomeranggo.co.kr,AVAILABILITY,domains.list,2024-05-10 03:14:26.995055
 smetrics.ellentube.com,AVAILABILITY,domains.list,2024-05-11 05:39:49.362238
 smetrics.childrensplace.com,AVAILABILITY,domains.list,2024-05-11 05:39:49.793841
 smetrics.airbank.cz,AVAILABILITY,domains.list,2024-05-11 05:39:52.580545
@@ -16,3 +7,12 @@ analytics.cibcrepitpournosheros.com,AVAILABILITY,domains.list,2024-05-11 05:39:5
 adbsmetrics.kiavirtualexperience.com,AVAILABILITY,domains.list,2024-05-11 05:39:53.755245
 adbmetrics.canal-literatura.com,AVAILABILITY,domains.list,2024-05-11 05:39:54.304370
 sanalytics.cartoonnetwork.com.tw,AVAILABILITY,domains.list,2024-05-11 05:40:01.713190
+smetrics.bankia.es,AVAILABILITY,domains.list,2024-05-11 05:46:19.648307
+metrics.pulte.com,AVAILABILITY,domains.list,2024-05-11 05:46:20.430877
+smetrics.ftd.com,AVAILABILITY,domains.list,2024-05-11 05:46:20.850115
+analytics.cinemax.tv,AVAILABILITY,domains.list,2024-05-11 05:46:21.517938
+analytics.eleague.com,AVAILABILITY,domains.list,2024-05-11 05:46:26.966563
+analytics.tnt.com.br,AVAILABILITY,domains.list,2024-05-11 05:46:28.018647
+sanalytics.sprint.com,AVAILABILITY,domains.list,2024-05-11 05:46:55.564055
+analytics.pogo.tv,AVAILABILITY,domains.list,2024-05-11 05:47:02.792444
+sanalytics.boomeranggo.co.kr,AVAILABILITY,domains.list,2024-05-11 05:47:11.967374
