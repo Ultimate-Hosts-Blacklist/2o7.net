@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-smetrics.bankia.es,AVAILABILITY,domains.list,2024-08-06 03:14:22.959270
-metrics.pulte.com,AVAILABILITY,domains.list,2024-08-06 03:14:23.242802
-smetrics.ftd.com,AVAILABILITY,domains.list,2024-08-06 03:14:23.524818
-analytics.cinemax.tv,AVAILABILITY,domains.list,2024-08-06 03:14:23.830043
-analytics.eleague.com,AVAILABILITY,domains.list,2024-08-06 03:14:24.175832
-analytics.tnt.com.br,AVAILABILITY,domains.list,2024-08-06 03:14:24.809183
 sanalytics.toonamiafrica.com,AVAILABILITY,domains.list,2024-08-07 08:31:28.970426
 sanalytics.sprint.com,AVAILABILITY,domains.list,2024-08-07 08:31:35.972673
 analytics.pogo.tv,AVAILABILITY,domains.list,2024-08-07 08:31:47.538348
@@ -18,3 +12,9 @@ analytics.cibcrepitpournosheros.com,AVAILABILITY,domains.list,2024-08-07 08:32:0
 adbsmetrics.kiavirtualexperience.com,AVAILABILITY,domains.list,2024-08-07 08:32:06.893850
 adbmetrics.canal-literatura.com,AVAILABILITY,domains.list,2024-08-07 08:32:07.204947
 sanalytics.cartoonnetwork.com.tw,AVAILABILITY,domains.list,2024-08-07 08:32:18.460242
+smetrics.bankia.es,AVAILABILITY,domains.list,2024-08-07 08:38:03.548028
+metrics.pulte.com,AVAILABILITY,domains.list,2024-08-07 08:38:03.998657
+smetrics.ftd.com,AVAILABILITY,domains.list,2024-08-07 08:38:04.520667
+analytics.cinemax.tv,AVAILABILITY,domains.list,2024-08-07 08:38:05.007895
+analytics.eleague.com,AVAILABILITY,domains.list,2024-08-07 08:38:05.327094
+analytics.tnt.com.br,AVAILABILITY,domains.list,2024-08-07 08:38:06.119321
