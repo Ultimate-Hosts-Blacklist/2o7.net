@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-smetrics.vodafone.co.uk,AVAILABILITY,domains.list,2024-08-14 11:03:01.263632
-analytics.cnfanart.com,AVAILABILITY,domains.list,2024-08-14 11:04:21.725874
-analytics.concorsicartoonito.it,AVAILABILITY,domains.list,2024-08-14 11:04:33.708633
-sanalytics.cnfanart.com,AVAILABILITY,domains.list,2024-08-14 11:04:45.579580
 sanalytics.toonamiafrica.com,AVAILABILITY,domains.list,2024-08-15 11:06:46.858131
 sanalytics.sprint.com,AVAILABILITY,domains.list,2024-08-15 11:06:50.661625
 analytics.pogo.tv,AVAILABILITY,domains.list,2024-08-15 11:07:02.854700
@@ -22,3 +18,6 @@ smetrics.ftd.com,AVAILABILITY,domains.list,2024-08-15 11:07:38.529003
 analytics.cinemax.tv,AVAILABILITY,domains.list,2024-08-15 11:07:38.771306
 analytics.eleague.com,AVAILABILITY,domains.list,2024-08-15 11:07:39.063338
 analytics.tnt.com.br,AVAILABILITY,domains.list,2024-08-15 11:07:40.420590
+analytics.cnfanart.com,AVAILABILITY,domains.list,2024-08-16 11:02:33.763681
+analytics.concorsicartoonito.it,AVAILABILITY,domains.list,2024-08-16 11:02:45.580529
+sanalytics.cnfanart.com,AVAILABILITY,domains.list,2024-08-16 11:02:57.308770
