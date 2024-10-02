@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-smetrics.bmc.com,AVAILABILITY,domains.list,2024-10-01 03:16:04.689161+00:00
 smetrics.shellenergy.co.uk,AVAILABILITY,domains.list,2024-10-02 03:08:20.471423+00:00
 sanalytics.toonamiafrica.com,AVAILABILITY,domains.list,2024-10-02 03:08:32.132141+00:00
 sanalytics.sprint.com,AVAILABILITY,domains.list,2024-10-02 03:08:32.921181+00:00
@@ -23,3 +22,4 @@ analytics.tnt.com.br,AVAILABILITY,domains.list,2024-10-02 03:09:19.539003+00:00
 analytics.cnfanart.com,AVAILABILITY,domains.list,2024-10-02 03:09:30.652176+00:00
 analytics.concorsicartoonito.it,AVAILABILITY,domains.list,2024-10-02 03:09:42.162723+00:00
 sanalytics.cnfanart.com,AVAILABILITY,domains.list,2024-10-02 03:09:52.949111+00:00
+smetrics.bmc.com,AVAILABILITY,domains.list,2024-10-02 11:53:32.767289+00:00
