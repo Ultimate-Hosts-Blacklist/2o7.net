@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-smetrics.bankia.es,AVAILABILITY,domains.list,2024-10-18 02:13:09.750184+00:00
-metrics.pulte.com,AVAILABILITY,domains.list,2024-10-18 02:13:10.029558+00:00
-smetrics.ftd.com,AVAILABILITY,domains.list,2024-10-18 02:13:10.280301+00:00
-analytics.cinemax.tv,AVAILABILITY,domains.list,2024-10-18 02:13:10.581404+00:00
-analytics.eleague.com,AVAILABILITY,domains.list,2024-10-18 02:13:10.987382+00:00
-analytics.tnt.com.br,AVAILABILITY,domains.list,2024-10-18 02:13:12.363678+00:00
-analytics.cnfanart.com,AVAILABILITY,domains.list,2024-10-18 02:13:30.728191+00:00
-analytics.concorsicartoonito.it,AVAILABILITY,domains.list,2024-10-18 02:13:47.814810+00:00
-sanalytics.cnfanart.com,AVAILABILITY,domains.list,2024-10-18 02:14:00.976054+00:00
 smetrics.shellenergy.co.uk,AVAILABILITY,domains.list,2024-10-19 09:44:25.396033+00:00
 sanalytics.toonamiafrica.com,AVAILABILITY,domains.list,2024-10-19 09:44:40.768187+00:00
 sanalytics.sprint.com,AVAILABILITY,domains.list,2024-10-19 09:44:41.427298+00:00
@@ -22,3 +13,12 @@ analytics.cibcrepitpournosheros.com,AVAILABILITY,domains.list,2024-10-19 09:45:1
 adbsmetrics.kiavirtualexperience.com,AVAILABILITY,domains.list,2024-10-19 09:45:20.176503+00:00
 adbmetrics.canal-literatura.com,AVAILABILITY,domains.list,2024-10-19 09:45:20.770043+00:00
 sanalytics.cartoonnetwork.com.tw,AVAILABILITY,domains.list,2024-10-19 09:45:36.977273+00:00
+smetrics.bankia.es,AVAILABILITY,domains.list,2024-10-19 09:51:09.699559+00:00
+metrics.pulte.com,AVAILABILITY,domains.list,2024-10-19 09:51:09.999146+00:00
+smetrics.ftd.com,AVAILABILITY,domains.list,2024-10-19 09:51:10.504083+00:00
+analytics.cinemax.tv,AVAILABILITY,domains.list,2024-10-19 09:51:10.756208+00:00
+analytics.eleague.com,AVAILABILITY,domains.list,2024-10-19 09:51:11.081072+00:00
+analytics.tnt.com.br,AVAILABILITY,domains.list,2024-10-19 09:51:11.624745+00:00
+analytics.cnfanart.com,AVAILABILITY,domains.list,2024-10-19 09:51:22.679900+00:00
+analytics.concorsicartoonito.it,AVAILABILITY,domains.list,2024-10-19 09:51:33.749523+00:00
+sanalytics.cnfanart.com,AVAILABILITY,domains.list,2024-10-19 09:51:44.673888+00:00
