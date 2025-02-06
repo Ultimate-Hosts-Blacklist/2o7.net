@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-smetrics.facitlaan.dk,AVAILABILITY,domains.list,2025-02-04 02:50:56.409804+00:00
-adbmetrics.saloncomicdonostia.com,AVAILABILITY,domains.list,2025-02-04 02:51:04.805308+00:00
-smetrics.shellenergy.co.uk,AVAILABILITY,domains.list,2025-02-04 02:51:05.859478+00:00
-sanalytics.toonamiafrica.com,AVAILABILITY,domains.list,2025-02-04 02:51:17.258808+00:00
 sanalytics.sprint.com,AVAILABILITY,domains.list,2025-02-04 02:51:17.699384+00:00
 analytics.pogo.tv,AVAILABILITY,domains.list,2025-02-04 02:51:28.882085+00:00
 sanalytics.boomeranggo.co.kr,AVAILABILITY,domains.list,2025-02-04 02:51:40.737082+00:00
@@ -24,3 +20,7 @@ analytics.tnt.com.br,AVAILABILITY,domains.list,2025-02-04 02:52:04.801882+00:00
 analytics.cnfanart.com,AVAILABILITY,domains.list,2025-02-04 02:52:16.838405+00:00
 analytics.concorsicartoonito.it,AVAILABILITY,domains.list,2025-02-04 02:58:23.738388+00:00
 sanalytics.cnfanart.com,AVAILABILITY,domains.list,2025-02-04 02:58:34.873179+00:00
+smetrics.facitlaan.dk,AVAILABILITY,domains.list,2025-02-06 02:53:46.169175+00:00
+adbmetrics.saloncomicdonostia.com,AVAILABILITY,domains.list,2025-02-06 02:53:54.619309+00:00
+smetrics.shellenergy.co.uk,AVAILABILITY,domains.list,2025-02-06 02:53:55.416878+00:00
+sanalytics.toonamiafrica.com,AVAILABILITY,domains.list,2025-02-06 02:54:08.349666+00:00
