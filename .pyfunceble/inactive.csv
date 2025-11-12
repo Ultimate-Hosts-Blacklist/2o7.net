@@ -1,18 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-analytics.cartoonnetworkmena.com,AVAILABILITY,domains.list,2025-11-11 03:38:28.135714+00:00
-sanalytics.cartoonnetwork.com.tw,AVAILABILITY,domains.list,2025-11-11 04:01:43.887639+00:00
-smetrics.bankia.es,AVAILABILITY,domains.list,2025-11-11 04:01:44.849947+00:00
-metrics.pulte.com,AVAILABILITY,domains.list,2025-11-11 04:01:45.460825+00:00
-smetrics.ftd.com,AVAILABILITY,domains.list,2025-11-11 04:01:45.914441+00:00
-analytics.cinemax.tv,AVAILABILITY,domains.list,2025-11-11 04:01:46.608301+00:00
-analytics.eleague.com,AVAILABILITY,domains.list,2025-11-11 04:01:47.073262+00:00
-analytics.tnt.com.br,AVAILABILITY,domains.list,2025-11-11 04:01:48.376177+00:00
-analytics.cnfanart.com,AVAILABILITY,domains.list,2025-11-11 04:01:58.395786+00:00
-analytics.concorsicartoonito.it,AVAILABILITY,domains.list,2025-11-11 04:02:13.468844+00:00
-sanalytics.cnfanart.com,AVAILABILITY,domains.list,2025-11-11 04:02:27.228242+00:00
-smetrics.thebay.com,AVAILABILITY,domains.list,2025-11-11 04:02:28.051085+00:00
-adbmetrics.degustacastillayleon.es,AVAILABILITY,domains.list,2025-11-11 04:02:28.407383+00:00
-analytics.sixt.jobs,AVAILABILITY,domains.list,2025-11-11 04:02:28.959945+00:00
 sanalytics.boomerang-tv.hu,AVAILABILITY,domains.list,2025-11-11 11:12:22.636505+00:00
 smetrics.nbi-sems.com,AVAILABILITY,domains.list,2025-11-11 11:12:23.187156+00:00
 smetrics.citibank.co.id,AVAILABILITY,domains.list,2025-11-11 11:12:25.220871+00:00
@@ -31,3 +17,17 @@ analytics.cibcholidaysforheroes.com,AVAILABILITY,domains.list,2025-11-11 11:13:0
 analytics.cibcrepitpournosheros.com,AVAILABILITY,domains.list,2025-11-11 11:13:08.549897+00:00
 adbsmetrics.kiavirtualexperience.com,AVAILABILITY,domains.list,2025-11-11 11:13:08.889958+00:00
 adbmetrics.canal-literatura.com,AVAILABILITY,domains.list,2025-11-11 11:13:09.432501+00:00
+analytics.cartoonnetworkmena.com,AVAILABILITY,domains.list,2025-11-12 09:26:14.892530+00:00
+sanalytics.cartoonnetwork.com.tw,AVAILABILITY,domains.list,2025-11-12 09:26:28.626319+00:00
+smetrics.bankia.es,AVAILABILITY,domains.list,2025-11-12 09:26:29.491606+00:00
+metrics.pulte.com,AVAILABILITY,domains.list,2025-11-12 09:26:29.843807+00:00
+smetrics.ftd.com,AVAILABILITY,domains.list,2025-11-12 09:26:30.132145+00:00
+analytics.cinemax.tv,AVAILABILITY,domains.list,2025-11-12 09:26:30.456096+00:00
+analytics.eleague.com,AVAILABILITY,domains.list,2025-11-12 09:26:30.851729+00:00
+analytics.tnt.com.br,AVAILABILITY,domains.list,2025-11-12 09:26:31.595166+00:00
+analytics.cnfanart.com,AVAILABILITY,domains.list,2025-11-12 09:26:43.047878+00:00
+analytics.concorsicartoonito.it,AVAILABILITY,domains.list,2025-11-12 09:26:55.656878+00:00
+sanalytics.cnfanart.com,AVAILABILITY,domains.list,2025-11-12 09:27:06.658837+00:00
+smetrics.thebay.com,AVAILABILITY,domains.list,2025-11-12 09:27:07.472862+00:00
+adbmetrics.degustacastillayleon.es,AVAILABILITY,domains.list,2025-11-12 09:27:07.715182+00:00
+analytics.sixt.jobs,AVAILABILITY,domains.list,2025-11-12 09:27:08.431526+00:00
