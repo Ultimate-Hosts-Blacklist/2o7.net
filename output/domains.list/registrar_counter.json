@@ -1,12 +1,10 @@
 {
     "counter": {
-        "Nameshield SAS": 2,
         "Nom-iq Ltd. dba COM LAUDE": 2,
-        "total": 4
+        "total": 2
     },
     "percentage": {
-        "Nameshield SAS": 50.0,
-        "Nom-iq Ltd. dba COM LAUDE": 50.0,
+        "Nom-iq Ltd. dba COM LAUDE": 100.0,
         "total": 100.0
     }
 }
