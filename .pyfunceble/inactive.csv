@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-smetrics.cars.com,AVAILABILITY,domains.list,2026-03-22 06:36:19.185747+00:00
-smetrics.ellentube.com,AVAILABILITY,domains.list,2026-03-22 06:36:19.417310+00:00
-smetrics.childrensplace.com,AVAILABILITY,domains.list,2026-03-22 06:36:19.656917+00:00
-smetrics.airbank.cz,AVAILABILITY,domains.list,2026-03-22 06:36:23.612312+00:00
-analytics.cibcholidaysforheroes.com,AVAILABILITY,domains.list,2026-03-22 06:36:23.894693+00:00
-analytics.cibcrepitpournosheros.com,AVAILABILITY,domains.list,2026-03-22 06:36:24.134625+00:00
-adbsmetrics.kiavirtualexperience.com,AVAILABILITY,domains.list,2026-03-22 06:36:24.548280+00:00
-adbmetrics.canal-literatura.com,AVAILABILITY,domains.list,2026-03-22 06:36:24.907869+00:00
 adbmetrics.saloncomicdonostia.com,AVAILABILITY,domains.list,2026-03-23 06:27:32.490952+00:00
 smetrics.citibank.com.au,AVAILABILITY,domains.list,2026-03-23 11:59:39.105101+00:00
 analyticsresults.datev-karriereblog.de,AVAILABILITY,domains.list,2026-03-23 11:59:43.600442+00:00
@@ -33,3 +25,11 @@ sanalytics.toonamiafrica.com,AVAILABILITY,domains.list,2026-03-23 12:01:40.39552
 sanalytics.sprint.com,AVAILABILITY,domains.list,2026-03-23 12:01:40.720424+00:00
 analytics.pogo.tv,AVAILABILITY,domains.list,2026-03-23 12:02:00.586853+00:00
 sanalytics.boomeranggo.co.kr,AVAILABILITY,domains.list,2026-03-23 12:02:17.932536+00:00
+smetrics.cars.com,AVAILABILITY,domains.list,2026-03-23 12:06:07.526838+00:00
+smetrics.ellentube.com,AVAILABILITY,domains.list,2026-03-23 12:06:07.893042+00:00
+smetrics.childrensplace.com,AVAILABILITY,domains.list,2026-03-23 12:06:08.159815+00:00
+smetrics.airbank.cz,AVAILABILITY,domains.list,2026-03-23 12:06:09.922813+00:00
+analytics.cibcholidaysforheroes.com,AVAILABILITY,domains.list,2026-03-23 12:06:10.627521+00:00
+analytics.cibcrepitpournosheros.com,AVAILABILITY,domains.list,2026-03-23 12:06:10.914312+00:00
+adbsmetrics.kiavirtualexperience.com,AVAILABILITY,domains.list,2026-03-23 12:06:12.076851+00:00
+adbmetrics.canal-literatura.com,AVAILABILITY,domains.list,2026-03-23 12:06:12.991370+00:00
