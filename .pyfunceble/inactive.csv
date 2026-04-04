@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-smetrics.cars.com,AVAILABILITY,domains.list,2026-04-02 08:42:23.785844+00:00
-smetrics.ellentube.com,AVAILABILITY,domains.list,2026-04-02 08:42:24.020359+00:00
-smetrics.childrensplace.com,AVAILABILITY,domains.list,2026-04-02 08:42:24.283567+00:00
-smetrics.airbank.cz,AVAILABILITY,domains.list,2026-04-02 08:42:26.675083+00:00
-analytics.cibcholidaysforheroes.com,AVAILABILITY,domains.list,2026-04-02 08:42:26.896747+00:00
-analytics.cibcrepitpournosheros.com,AVAILABILITY,domains.list,2026-04-02 08:42:27.147295+00:00
-adbsmetrics.kiavirtualexperience.com,AVAILABILITY,domains.list,2026-04-02 08:42:27.522227+00:00
-adbmetrics.canal-literatura.com,AVAILABILITY,domains.list,2026-04-02 08:42:27.949599+00:00
 analyticsresults.trialog-magazin.de,AVAILABILITY,domains.list,2026-04-04 05:14:11.834354+00:00
 adbmetrics.saloncomicdonostia.com,AVAILABILITY,domains.list,2026-04-04 05:14:12.218770+00:00
 smetrics.citibank.com.au,AVAILABILITY,domains.list,2026-04-04 05:14:13.425392+00:00
@@ -34,3 +26,11 @@ sanalytics.toonamiafrica.com,AVAILABILITY,domains.list,2026-04-04 05:16:20.75164
 sanalytics.sprint.com,AVAILABILITY,domains.list,2026-04-04 05:16:21.070315+00:00
 analytics.pogo.tv,AVAILABILITY,domains.list,2026-04-04 05:16:34.436845+00:00
 sanalytics.boomeranggo.co.kr,AVAILABILITY,domains.list,2026-04-04 05:16:49.790020+00:00
+smetrics.cars.com,AVAILABILITY,domains.list,2026-04-04 05:20:40.981751+00:00
+smetrics.ellentube.com,AVAILABILITY,domains.list,2026-04-04 05:20:41.386778+00:00
+smetrics.childrensplace.com,AVAILABILITY,domains.list,2026-04-04 05:20:41.693908+00:00
+smetrics.airbank.cz,AVAILABILITY,domains.list,2026-04-04 05:20:44.691860+00:00
+analytics.cibcholidaysforheroes.com,AVAILABILITY,domains.list,2026-04-04 05:20:45.055430+00:00
+analytics.cibcrepitpournosheros.com,AVAILABILITY,domains.list,2026-04-04 05:20:45.383618+00:00
+adbsmetrics.kiavirtualexperience.com,AVAILABILITY,domains.list,2026-04-04 05:20:45.887553+00:00
+adbmetrics.canal-literatura.com,AVAILABILITY,domains.list,2026-04-04 05:20:46.537509+00:00
