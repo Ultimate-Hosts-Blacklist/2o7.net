@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-smetrics.facitlaan.dk,AVAILABILITY,domains.list,2026-06-17 15:06:35.938596+00:00
-smetrics.vodafone.es,AVAILABILITY,domains.list,2026-06-17 15:06:48.036663+00:00
-smetrics.shopmyexchange.com,AVAILABILITY,domains.list,2026-06-17 15:06:48.300333+00:00
-analytics.chilevision.cl,AVAILABILITY,domains.list,2026-06-17 15:06:48.716875+00:00
-sanalytics.chilevision.cl,AVAILABILITY,domains.list,2026-06-17 15:06:49.106612+00:00
-smetrics.textbooks.com,AVAILABILITY,domains.list,2026-06-17 15:06:49.402847+00:00
-analytics.chvnoticias.cl,AVAILABILITY,domains.list,2026-06-17 15:06:49.962789+00:00
-analyticsresults.trialog-magazin.de,AVAILABILITY,domains.list,2026-06-17 15:06:54.930595+00:00
-adbmetrics.saloncomicdonostia.com,AVAILABILITY,domains.list,2026-06-17 15:06:55.309231+00:00
-smetrics.citibank.com.au,AVAILABILITY,domains.list,2026-06-17 15:06:56.676237+00:00
-analyticsresults.datev-karriereblog.de,AVAILABILITY,domains.list,2026-06-17 15:07:05.966450+00:00
-analytics.cartoonnetworkmena.com,AVAILABILITY,domains.list,2026-06-17 15:07:06.269087+00:00
-sanalytics.cartoonnetwork.com.tw,AVAILABILITY,domains.list,2026-06-17 15:07:14.983180+00:00
 smetrics.bankia.es,AVAILABILITY,domains.list,2026-06-17 15:07:16.804375+00:00
 metrics.pulte.com,AVAILABILITY,domains.list,2026-06-17 15:07:17.171762+00:00
 smetrics.ftd.com,AVAILABILITY,domains.list,2026-06-17 15:07:17.474670+00:00
@@ -41,3 +28,16 @@ analytics.cibcholidaysforheroes.com,AVAILABILITY,domains.list,2026-06-17 15:09:3
 analytics.cibcrepitpournosheros.com,AVAILABILITY,domains.list,2026-06-17 15:09:35.493688+00:00
 adbsmetrics.kiavirtualexperience.com,AVAILABILITY,domains.list,2026-06-17 15:09:35.896682+00:00
 adbmetrics.canal-literatura.com,AVAILABILITY,domains.list,2026-06-17 15:09:36.492465+00:00
+smetrics.facitlaan.dk,AVAILABILITY,domains.list,2026-06-18 15:22:19.910987+00:00
+smetrics.vodafone.es,AVAILABILITY,domains.list,2026-06-18 15:22:27.111804+00:00
+smetrics.shopmyexchange.com,AVAILABILITY,domains.list,2026-06-18 15:22:27.377015+00:00
+analytics.chilevision.cl,AVAILABILITY,domains.list,2026-06-18 15:22:29.331758+00:00
+sanalytics.chilevision.cl,AVAILABILITY,domains.list,2026-06-18 15:22:29.710750+00:00
+smetrics.textbooks.com,AVAILABILITY,domains.list,2026-06-18 15:22:30.016753+00:00
+analytics.chvnoticias.cl,AVAILABILITY,domains.list,2026-06-18 15:22:30.564768+00:00
+analyticsresults.trialog-magazin.de,AVAILABILITY,domains.list,2026-06-18 15:22:37.091711+00:00
+adbmetrics.saloncomicdonostia.com,AVAILABILITY,domains.list,2026-06-18 15:22:37.410248+00:00
+smetrics.citibank.com.au,AVAILABILITY,domains.list,2026-06-18 15:22:38.742735+00:00
+analyticsresults.datev-karriereblog.de,AVAILABILITY,domains.list,2026-06-18 15:22:42.733978+00:00
+analytics.cartoonnetworkmena.com,AVAILABILITY,domains.list,2026-06-18 15:22:42.976733+00:00
+sanalytics.cartoonnetwork.com.tw,AVAILABILITY,domains.list,2026-06-18 15:23:00.510067+00:00
