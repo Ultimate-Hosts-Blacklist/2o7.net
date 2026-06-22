@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-sanalytics.sprint.com,AVAILABILITY,domains.list,2026-06-21 08:38:02.929652+00:00
-analytics.pogo.tv,AVAILABILITY,domains.list,2026-06-21 08:38:18.298951+00:00
-sanalytics.boomeranggo.co.kr,AVAILABILITY,domains.list,2026-06-21 08:38:34.536910+00:00
-smetrics.cars.com,AVAILABILITY,domains.list,2026-06-21 08:38:34.947562+00:00
-smetrics.ellentube.com,AVAILABILITY,domains.list,2026-06-21 08:38:35.197099+00:00
-smetrics.childrensplace.com,AVAILABILITY,domains.list,2026-06-21 08:38:35.381881+00:00
-smetrics.airbank.cz,AVAILABILITY,domains.list,2026-06-21 08:38:36.282283+00:00
-analytics.cibcholidaysforheroes.com,AVAILABILITY,domains.list,2026-06-21 08:38:36.599143+00:00
-analytics.cibcrepitpournosheros.com,AVAILABILITY,domains.list,2026-06-21 08:38:36.929513+00:00
-adbsmetrics.kiavirtualexperience.com,AVAILABILITY,domains.list,2026-06-21 08:38:37.563801+00:00
-adbmetrics.canal-literatura.com,AVAILABILITY,domains.list,2026-06-21 08:38:37.991228+00:00
 smetrics.facitlaan.dk,AVAILABILITY,domains.list,2026-06-22 09:40:20.715598+00:00
 smetrics.vodafone.es,AVAILABILITY,domains.list,2026-06-22 09:40:24.395803+00:00
 smetrics.shopmyexchange.com,AVAILABILITY,domains.list,2026-06-22 09:40:24.750267+00:00
@@ -41,3 +30,14 @@ smetrics.citibank.co.id,AVAILABILITY,domains.list,2026-06-22 09:41:39.380760+00:
 smetrics.visitsingapore.com,AVAILABILITY,domains.list,2026-06-22 09:41:40.166304+00:00
 smetrics.shellenergy.co.uk,AVAILABILITY,domains.list,2026-06-22 09:41:40.829646+00:00
 sanalytics.toonamiafrica.com,AVAILABILITY,domains.list,2026-06-22 09:41:55.582472+00:00
+sanalytics.sprint.com,AVAILABILITY,domains.list,2026-06-22 09:45:40.011441+00:00
+analytics.pogo.tv,AVAILABILITY,domains.list,2026-06-22 09:45:53.203680+00:00
+sanalytics.boomeranggo.co.kr,AVAILABILITY,domains.list,2026-06-22 09:46:08.829423+00:00
+smetrics.cars.com,AVAILABILITY,domains.list,2026-06-22 09:46:09.164525+00:00
+smetrics.ellentube.com,AVAILABILITY,domains.list,2026-06-22 09:46:09.473634+00:00
+smetrics.childrensplace.com,AVAILABILITY,domains.list,2026-06-22 09:46:09.643998+00:00
+smetrics.airbank.cz,AVAILABILITY,domains.list,2026-06-22 09:46:10.448757+00:00
+analytics.cibcholidaysforheroes.com,AVAILABILITY,domains.list,2026-06-22 09:46:10.806573+00:00
+analytics.cibcrepitpournosheros.com,AVAILABILITY,domains.list,2026-06-22 09:46:11.126719+00:00
+adbsmetrics.kiavirtualexperience.com,AVAILABILITY,domains.list,2026-06-22 09:46:11.495338+00:00
+adbmetrics.canal-literatura.com,AVAILABILITY,domains.list,2026-06-22 09:46:11.781345+00:00
