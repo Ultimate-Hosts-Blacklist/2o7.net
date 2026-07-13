@@ -1,19 +1,19 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "end_datetime": "2026-07-12T11:56:53.031508",
     "end_epoch": 1783857413.031508,
     "issue_link": "https://github.com/FadeMind/hosts.extras/issues/new",
     "link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
     "name": "2o7.net",
-    "previous_end_datetime": "2026-07-11T11:11:05.244449",
-    "previous_end_epoch": 1783768265.244449,
-    "previous_start_datetime": "2026-07-11T10:46:24.903394",
-    "previous_start_epoch": 1783766784.903394,
+    "previous_end_datetime": "2026-07-12T11:56:53.031508",
+    "previous_end_epoch": 1783857413.031508,
+    "previous_start_datetime": "2026-07-12T11:29:47.234450",
+    "previous_start_epoch": 1783855787.23445,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
-    "start_datetime": "2026-07-12T11:29:47.234450",
-    "start_epoch": 1783855787.23445
+    "start_datetime": "2026-07-13T12:42:14.252946",
+    "start_epoch": 1783946534.252946
 }
