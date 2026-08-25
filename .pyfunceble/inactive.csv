@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-smetrics.jcrew.com,AVAILABILITY,domains.list,2026-08-23 11:11:00.244359+00:00
-analyticsresults.bildungsforum.datev.de,AVAILABILITY,domains.list,2026-08-23 11:11:04.152724+00:00
-smetrics.misrp.com,AVAILABILITY,domains.list,2026-08-23 11:11:04.506399+00:00
-smetrics.i22.nadro.mx,AVAILABILITY,domains.list,2026-08-23 11:11:06.754775+00:00
-smetrics.nadro.mx,AVAILABILITY,domains.list,2026-08-23 11:11:07.444000+00:00
-smetrics.facitlaan.dk,AVAILABILITY,domains.list,2026-08-23 11:11:08.785162+00:00
-smetrics.vodafone.es,AVAILABILITY,domains.list,2026-08-23 11:11:24.052057+00:00
 smetrics.shopmyexchange.com,AVAILABILITY,domains.list,2026-08-23 11:11:24.568815+00:00
 analytics.chilevision.cl,AVAILABILITY,domains.list,2026-08-23 11:11:25.297168+00:00
 sanalytics.chilevision.cl,AVAILABILITY,domains.list,2026-08-23 11:11:25.544490+00:00
@@ -46,3 +39,10 @@ analytics.cibcholidaysforheroes.com,AVAILABILITY,domains.list,2026-08-23 11:14:1
 analytics.cibcrepitpournosheros.com,AVAILABILITY,domains.list,2026-08-23 11:14:19.781845+00:00
 adbsmetrics.kiavirtualexperience.com,AVAILABILITY,domains.list,2026-08-23 11:14:20.064053+00:00
 adbmetrics.canal-literatura.com,AVAILABILITY,domains.list,2026-08-23 11:14:20.475154+00:00
+smetrics.jcrew.com,AVAILABILITY,domains.list,2026-08-25 11:10:59.110314+00:00
+analyticsresults.bildungsforum.datev.de,AVAILABILITY,domains.list,2026-08-25 11:11:01.040859+00:00
+smetrics.misrp.com,AVAILABILITY,domains.list,2026-08-25 11:11:01.366477+00:00
+smetrics.i22.nadro.mx,AVAILABILITY,domains.list,2026-08-25 11:11:02.522203+00:00
+smetrics.nadro.mx,AVAILABILITY,domains.list,2026-08-25 11:11:03.372328+00:00
+smetrics.facitlaan.dk,AVAILABILITY,domains.list,2026-08-25 11:11:04.253730+00:00
+smetrics.vodafone.es,AVAILABILITY,domains.list,2026-08-25 11:11:09.766696+00:00
