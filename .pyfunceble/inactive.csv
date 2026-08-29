@@ -1,13 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-sanalytics.boomeranggo.co.kr,AVAILABILITY,domains.list,2026-08-27 18:06:15.727065+00:00
-smetrics.cars.com,AVAILABILITY,domains.list,2026-08-27 18:06:15.958555+00:00
-smetrics.ellentube.com,AVAILABILITY,domains.list,2026-08-27 18:06:16.384609+00:00
-smetrics.childrensplace.com,AVAILABILITY,domains.list,2026-08-27 18:06:16.570891+00:00
-smetrics.airbank.cz,AVAILABILITY,domains.list,2026-08-27 18:06:18.432355+00:00
-analytics.cibcholidaysforheroes.com,AVAILABILITY,domains.list,2026-08-27 18:06:18.753835+00:00
-analytics.cibcrepitpournosheros.com,AVAILABILITY,domains.list,2026-08-27 18:06:19.159517+00:00
-adbsmetrics.kiavirtualexperience.com,AVAILABILITY,domains.list,2026-08-27 18:06:19.546823+00:00
-adbmetrics.canal-literatura.com,AVAILABILITY,domains.list,2026-08-27 18:06:20.270217+00:00
 smetrics.jcrew.com,AVAILABILITY,domains.list,2026-08-29 10:39:23.283269+00:00
 analyticsresults.bildungsforum.datev.de,AVAILABILITY,domains.list,2026-08-29 10:39:25.607072+00:00
 smetrics.misrp.com,AVAILABILITY,domains.list,2026-08-29 10:39:26.014105+00:00
@@ -46,3 +37,12 @@ smetrics.shellenergy.co.uk,AVAILABILITY,domains.list,2026-08-29 10:41:05.549709+
 sanalytics.toonamiafrica.com,AVAILABILITY,domains.list,2026-08-29 10:41:20.428142+00:00
 sanalytics.sprint.com,AVAILABILITY,domains.list,2026-08-29 10:41:20.620578+00:00
 analytics.pogo.tv,AVAILABILITY,domains.list,2026-08-29 10:41:32.188032+00:00
+sanalytics.boomeranggo.co.kr,AVAILABILITY,domains.list,2026-08-29 10:45:28.109602+00:00
+smetrics.cars.com,AVAILABILITY,domains.list,2026-08-29 10:45:28.587501+00:00
+smetrics.ellentube.com,AVAILABILITY,domains.list,2026-08-29 10:45:28.956450+00:00
+smetrics.childrensplace.com,AVAILABILITY,domains.list,2026-08-29 10:45:29.191170+00:00
+smetrics.airbank.cz,AVAILABILITY,domains.list,2026-08-29 10:45:30.769520+00:00
+analytics.cibcholidaysforheroes.com,AVAILABILITY,domains.list,2026-08-29 10:45:31.040670+00:00
+analytics.cibcrepitpournosheros.com,AVAILABILITY,domains.list,2026-08-29 10:45:31.340819+00:00
+adbsmetrics.kiavirtualexperience.com,AVAILABILITY,domains.list,2026-08-29 10:45:31.651526+00:00
+adbmetrics.canal-literatura.com,AVAILABILITY,domains.list,2026-08-29 10:45:32.066945+00:00
