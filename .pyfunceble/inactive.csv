@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-smetrics.jcrew.com,AVAILABILITY,domains.list,2026-09-03 15:22:54.704530+00:00
-analyticsresults.bildungsforum.datev.de,AVAILABILITY,domains.list,2026-09-03 15:23:02.335288+00:00
-smetrics.misrp.com,AVAILABILITY,domains.list,2026-09-03 15:23:02.956149+00:00
-smetrics.i22.nadro.mx,AVAILABILITY,domains.list,2026-09-03 15:23:05.366987+00:00
-smetrics.nadro.mx,AVAILABILITY,domains.list,2026-09-03 15:23:06.132247+00:00
-smetrics.facitlaan.dk,AVAILABILITY,domains.list,2026-09-03 15:23:08.104360+00:00
-smetrics.vodafone.es,AVAILABILITY,domains.list,2026-09-03 15:23:12.732664+00:00
-smetrics.shopmyexchange.com,AVAILABILITY,domains.list,2026-09-03 15:23:13.185527+00:00
-analytics.chilevision.cl,AVAILABILITY,domains.list,2026-09-03 15:23:13.668630+00:00
-sanalytics.chilevision.cl,AVAILABILITY,domains.list,2026-09-03 15:23:14.298941+00:00
-smetrics.textbooks.com,AVAILABILITY,domains.list,2026-09-03 15:23:14.723155+00:00
-analytics.chvnoticias.cl,AVAILABILITY,domains.list,2026-09-03 15:23:15.210096+00:00
-analyticsresults.trialog-magazin.de,AVAILABILITY,domains.list,2026-09-03 15:23:22.371925+00:00
 adbmetrics.saloncomicdonostia.com,AVAILABILITY,domains.list,2026-09-03 15:23:22.915681+00:00
 smetrics.citibank.com.au,AVAILABILITY,domains.list,2026-09-03 15:23:25.910182+00:00
 analyticsresults.datev-karriereblog.de,AVAILABILITY,domains.list,2026-09-03 15:23:28.412910+00:00
@@ -47,3 +34,16 @@ analytics.cibcrepitpournosheros.com,AVAILABILITY,domains.list,2026-09-03 15:25:4
 adbsmetrics.kiavirtualexperience.com,AVAILABILITY,domains.list,2026-09-03 15:25:50.475502+00:00
 adbmetrics.canal-literatura.com,AVAILABILITY,domains.list,2026-09-03 15:25:51.240258+00:00
 metrics.nutraingredients-usa.com,AVAILABILITY,domains.list,2026-09-04 15:03:11.585474+00:00
+smetrics.jcrew.com,AVAILABILITY,domains.list,2026-09-05 09:33:36.186449+00:00
+analyticsresults.bildungsforum.datev.de,AVAILABILITY,domains.list,2026-09-05 09:33:40.649645+00:00
+smetrics.misrp.com,AVAILABILITY,domains.list,2026-09-05 09:33:40.974990+00:00
+smetrics.i22.nadro.mx,AVAILABILITY,domains.list,2026-09-05 09:33:42.111238+00:00
+smetrics.nadro.mx,AVAILABILITY,domains.list,2026-09-05 09:33:42.786920+00:00
+smetrics.facitlaan.dk,AVAILABILITY,domains.list,2026-09-05 09:33:44.760384+00:00
+smetrics.vodafone.es,AVAILABILITY,domains.list,2026-09-05 09:33:45.419815+00:00
+smetrics.shopmyexchange.com,AVAILABILITY,domains.list,2026-09-05 09:33:45.994370+00:00
+analytics.chilevision.cl,AVAILABILITY,domains.list,2026-09-05 09:33:46.401229+00:00
+sanalytics.chilevision.cl,AVAILABILITY,domains.list,2026-09-05 09:33:46.774751+00:00
+smetrics.textbooks.com,AVAILABILITY,domains.list,2026-09-05 09:33:47.052237+00:00
+analytics.chvnoticias.cl,AVAILABILITY,domains.list,2026-09-05 09:33:47.451852+00:00
+analyticsresults.trialog-magazin.de,AVAILABILITY,domains.list,2026-09-05 09:33:52.386796+00:00
