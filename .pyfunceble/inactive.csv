@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-smetrics.i22.nadro.mx,AVAILABILITY,domains.list,2026-11-24 21:56:13.272706+00:00
-smetrics.nadro.mx,AVAILABILITY,domains.list,2026-11-24 21:56:42.854657+00:00
 adb-analytics.live-now.com,AVAILABILITY,domains.list,2026-11-25 21:18:36.916860+00:00
 adbsmetrics.koreanair.com,AVAILABILITY,domains.list,2026-11-25 21:18:37.273388+00:00
 analytics.sixt.es,AVAILABILITY,domains.list,2026-11-25 21:18:37.661979+00:00
@@ -57,3 +55,5 @@ analytics.cibcrepitpournosheros.com,AVAILABILITY,domains.list,2026-11-25 21:21:0
 adbsmetrics.kiavirtualexperience.com,AVAILABILITY,domains.list,2026-11-25 21:21:06.830005+00:00
 adbmetrics.canal-literatura.com,AVAILABILITY,domains.list,2026-11-25 21:21:07.393433+00:00
 analytics.tnt.africa,AVAILABILITY,domains.list,2026-11-25 21:21:19.377828+00:00
+smetrics.i22.nadro.mx,AVAILABILITY,domains.list,2026-11-26 19:56:20.872174+00:00
+smetrics.nadro.mx,AVAILABILITY,domains.list,2026-11-26 19:56:21.613564+00:00
